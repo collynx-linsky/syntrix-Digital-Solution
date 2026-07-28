@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "eyebrow": "Miradi",
+    "title": "Kazi Inayoleta Matokeo Halisi ya Kibiashara",
+    "subtitle": "Uteuzi wa miradi katika elimu, fedha, rejareja, na usafirishaji."
+  },
+  "filters": { "all": "Sekta Zote" },
+  "viewProject": "Angalia Mradi",
+  "projects": [
+    { "slug": "beacon-secondary-school-erp", "title": "ERP ya Usimamizi wa Shule", "client": "Shule ya Sekondari Beacon", "industry": "Elimu", "technologies": ["Django", "PostgreSQL", "Next.js", "Docker"], "description": "ERP kamili ya shule inayoshughulikia udahili, masuala ya kitaaluma, mahudhurio, mitihani, na mawasiliano ya wazazi kwa taasisi yenye wanafunzi 1,200." },
+    { "slug": "kilimanjaro-freight-platform", "title": "Jukwaa la Usimamizi wa Usafirishaji", "client": "Kilimanjaro Freight Ltd.", "industry": "Usafirishaji", "technologies": ["Django REST Framework", "React", "PostgreSQL", "AWS"], "description": "Jukwaa la ufuatiliaji wa magari na mizigo lililopunguza muda wa uchakataji wa usafirishaji kwa 60% na kuwapa wateja uwazi wa wakati halisi." },
+    { "slug": "savanna-retail-commerce", "title": "Mfumo wa Biashara Mtandaoni na Hesabu", "client": "Savanna Retail Group", "industry": "Rejareja", "technologies": ["Next.js", "TypeScript", "Django", "Redis"], "description": "Jukwaa la biashara mtandaoni la matawi mengi lenye usimamizi wa hesabu uliopunguza tofauti za hesabu kwa 45%." },
+    { "slug": "amani-microfinance-portal", "title": "Jukwaa la Usimamizi wa Wateja na Mikopo", "client": "Amani Microfinance", "industry": "Fedha", "technologies": ["Django", "PostgreSQL", "Next.js", "OAuth2"], "description": "Jukwaa salama la usimamizi wa wateja na mikopo lenye ufikiaji wa ngazi za majukumu, lililojengwa kwa viwango vikali vya ulinzi wa data." },
+    { "slug": "serengeti-tourism-site", "title": "Tovuti ya Kampuni na Kampeni ya SEO", "client": "Serengeti Adventures", "industry": "Utalii", "technologies": ["Next.js", "Tailwind CSS", "SEO ya Kiufundi"], "description": "Tovuti bora ya lugha nyingi na kampeni ya SEO iliyoongeza mara tatu maombi ya kibiashara ya utalii ndani ya miezi sita." },
+    { "slug": "unity-university-portal", "title": "Jukwaa la Wanafunzi wa Chuo Kikuu", "client": "Chuo Kikuu cha Unity", "industry": "Elimu", "technologies": ["Django", "React", "PostgreSQL", "Docker"], "description": "Jukwaa la wanafunzi na wahadhiri linaloshughulikia usajili, matokeo, na rekodi za kitaaluma kwa wanafunzi zaidi ya 8,000." }
+  ]
+}

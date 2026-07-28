@@ -1,0 +1,38 @@
+# Production overlay. Use together with the root docker-compose.yml:
+#
+#   docker compose -f docker-compose.yml -f deployment/docker-compose.prod.yml up -d --build
+#
+# Differences from the base (development) file:
+#   - backend runs gunicorn via its default Dockerfile CMD (no --reload/runserver)
+#   - frontend builds the standalone Next.js production server
+#   - restart policies suited to a long-running host
+#
+# Note: the base file's `./backend:/app` bind mount is still active here
+# (Compose merges volumes by target path across files). That's harmless —
+# the mounted source matches what's baked into the image — but for a
+# strictly immutable production deploy, remove that line from the base
+# docker-compose.yml's backend service before deploying, or build/push a
+# versioned image and run it without any docker-compose.yml bind mounts.
+name: syntrix
+
+services:
+  backend:
+    build:
+      context: ../backend
+      args:
+        ENVIRONMENT: production
+    command: []  # fall back to the Dockerfile's ENTRYPOINT/CMD (gunicorn)
+    environment:
+      DJANGO_SETTINGS_MODULE: config.settings.production
+    volumes:
+      - backend_media:/app/media
+      - backend_static:/app/staticfiles
+    restart: always
+
+  frontend:
+    build:
+      context: ../frontend
+    restart: always
+
+volumes:
+  backend_static:

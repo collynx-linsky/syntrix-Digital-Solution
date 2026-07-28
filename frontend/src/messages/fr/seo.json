@@ -1,0 +1,55 @@
+{
+  "siteName": "Syntrix Digital Solutions",
+  "defaultTitle": "Syntrix Digital Solutions | Entreprise de Développement Logiciel en Tanzanie",
+  "titleTemplate": "%s | Syntrix Digital Solutions",
+  "home": {
+    "title": "Syntrix Digital Solutions | Entreprise de Développement Logiciel en Tanzanie",
+    "description": "Syntrix Digital Solutions est une entreprise leader de développement logiciel en Tanzanie proposant des logiciels sur mesure, le développement de sites web, des systèmes ERP, des services SEO et des solutions de transformation numérique pour les entreprises est-africaines.",
+    "keywords": "entreprise de développement logiciel Tanzanie, développement de sites web Tanzanie, logiciel ERP Tanzanie, entreprise de solutions numériques Tanzanie, services SEO Tanzanie, solutions d'automatisation d'entreprise"
+  },
+  "about": {
+    "title": "À Propos | Entreprise Leader de Transformation Numérique en Tanzanie",
+    "description": "Découvrez Syntrix Digital Solutions — notre histoire, notre mission, notre vision et l'équipe qui construit des solutions numériques de niveau entreprise pour les entreprises en Tanzanie et en Afrique de l'Est.",
+    "keywords": "entreprise de transformation numérique Tanzanie, entreprise technologique Dar es Salaam, entreprise informatique Tanzanie"
+  },
+  "services": {
+    "title": "Nos Services | Logiciel, Web, ERP, SEO et Solutions Cloud",
+    "description": "Découvrez l'ensemble des services de Syntrix Digital Solutions : développement de logiciels sur mesure, développement de sites web, systèmes ERP éducation et entreprise, applications mobiles, SEO, marketing digital, image de marque et solutions cloud.",
+    "keywords": "services de développement logiciel Tanzanie, logiciel ERP Tanzanie, services SEO Tanzanie, solutions cloud Tanzanie, développement d'applications mobiles Tanzanie"
+  },
+  "solutions": {
+    "title": "Solutions Sectorielles | Éducation, Automatisation et Technologie IA",
+    "description": "Découvrez les solutions sectorielles de Syntrix en technologie de l'éducation, automatisation d'entreprise, systèmes d'entreprise et IA — conçues pour les organisations en Tanzanie et en Afrique de l'Est.",
+    "keywords": "technologie de l'éducation Tanzanie, solutions d'automatisation d'entreprise, systèmes d'entreprise Tanzanie, solutions IA Tanzanie"
+  },
+  "portfolio": {
+    "title": "Portfolio | Nos Projets de Transformation Numérique",
+    "description": "Découvrez comment Syntrix Digital Solutions a aidé des écoles, des institutions financières et des entreprises à travers la Tanzanie à se transformer numériquement avec des logiciels sur mesure et des systèmes ERP.",
+    "keywords": "portfolio de développement logiciel Tanzanie, études de cas ERP Tanzanie, projets de transformation numérique"
+  },
+  "blog": {
+    "title": "Blog | Analyses sur la Technologie, le SEO et la Transformation Numérique",
+    "description": "Articles et analyses sur le développement logiciel, le SEO, les systèmes ERP et la transformation numérique pour les entreprises en Tanzanie et en Afrique de l'Est.",
+    "keywords": "services SEO Tanzanie, blog de transformation numérique, articles technologiques Tanzanie"
+  },
+  "careers": {
+    "title": "Carrières | Rejoignez Syntrix Digital Solutions",
+    "description": "Découvrez les opportunités de carrière chez Syntrix Digital Solutions — une entreprise technologique en croissance qui construit des logiciels, des systèmes ERP et des expériences numériques à travers la Tanzanie.",
+    "keywords": "emplois informatiques Tanzanie, emplois développeur logiciel Dar es Salaam, carrières technologiques Tanzanie"
+  },
+  "contact": {
+    "title": "Contactez-Nous | Obtenez une Consultation Gratuite",
+    "description": "Contactez Syntrix Digital Solutions pour une consultation gratuite sur le développement logiciel, les systèmes ERP, le développement de sites web ou les services de transformation numérique en Tanzanie.",
+    "keywords": "contact entreprise logiciel Tanzanie, agence numérique Dar es Salaam, conseil informatique Tanzanie"
+  },
+  "gallery": {
+    "title": "Galerie | Photos de Notre Travail à Travers la Tanzanie",
+    "description": "Découvrez Syntrix Digital Solutions en action — notre équipe, nos projets et nos clients à travers la Tanzanie et l'Afrique de l'Est.",
+    "keywords": "photos Syntrix Digital Solutions, galerie entreprise logiciel Tanzanie, photos transformation numérique"
+  },
+  "team": {
+    "title": "Notre Équipe | Rencontrez les Personnes de Syntrix Digital Solutions",
+    "description": "Rencontrez les ingénieurs, designers et stratèges de Syntrix Digital Solutions qui construisent des solutions numériques de niveau entreprise à travers la Tanzanie et l'Afrique de l'Est.",
+    "keywords": "équipe Syntrix Digital Solutions, équipe entreprise logiciel Tanzanie, direction technologique Tanzanie"
+  }
+}

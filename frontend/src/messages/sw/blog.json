@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "eyebrow": "Blogu na Maarifa",
+    "title": "Mawazo Kuhusu Programu, SEO, na Mageuzi ya Kidijitali",
+    "subtitle": "Maarifa ya vitendo kwa biashara za Tanzania na Afrika Mashariki zinazopitia maamuzi ya teknolojia."
+  },
+  "categories": { "all": "Makala Zote", "technology": "Teknolojia", "seo": "SEO", "digital-transformation": "Mageuzi ya Kidijitali" },
+  "readMore": "Soma Makala",
+  "posts": [
+    { "slug": "why-tanzanian-businesses-need-custom-software", "title": "Kwa Nini Biashara za Tanzania Zinaachana na Programu za Kawaida", "category": "technology", "excerpt": "Programu za kawaida zinalazimisha biashara yako kubadilika kufuata mchakato wa mtu mwingine. Hii ndiyo sababu mifumo maalum inakuwa uwekezaji bora wa muda mrefu.", "readTime": 6 },
+    { "slug": "seo-guide-tanzania-2026", "title": "Mwongozo wa Vitendo wa SEO kwa Makampuni ya Tanzania 2026", "category": "seo", "excerpt": "Jinsi biashara za kienyeji zinavyoweza kushinda mwonekano wa utafutaji dhidi ya washindani wakubwa wa kimataifa — bila bajeti isiyo na kikomo.", "readTime": 8 },
+    { "slug": "erp-systems-for-schools", "title": "Nini cha Kuangalia Katika Mfumo wa ERP wa Shule", "category": "digital-transformation", "excerpt": "Uchambuzi wa vipengele vinavyohitajika hasa unapotathmini programu za usimamizi wa elimu kwa taasisi yako.", "readTime": 7 },
+    { "slug": "cloud-migration-checklist", "title": "Orodha ya Uhamishaji wa Wingu kwa Biashara Zinazokua", "category": "technology", "excerpt": "Kuhamia kwenye wingu si uamuzi wa kiufundi tu — hii ndiyo jinsi ya kupanga uhamishaji usioathiri uendeshaji.", "readTime": 5 },
+    { "slug": "digital-transformation-roadmap", "title": "Kujenga Ramani ya Mageuzi ya Kidijitali Inayofanya Kazi Kweli", "category": "digital-transformation", "excerpt": "Mageuzi ya kidijitali hushindwa yanapotibiwa kama mradi mmoja. Hii ndiyo jinsi ya kuyapanga kama uwezo endelevu.", "readTime": 9 },
+    { "slug": "multilingual-website-seo", "title": "Jinsi Tovuti za Lugha Nyingi Zinavyoboresha SEO na Uaminifu wa Wateja", "category": "seo", "excerpt": "Kuhudumia hadhira za Kiswahili, Kifaransa, na Kiarabu si ufikivu tu — ni faida ya SEO na ubadilishaji inayopimika.", "readTime": 6 }
+  ]
+}

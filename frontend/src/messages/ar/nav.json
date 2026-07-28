@@ -1,0 +1,23 @@
+{
+  "home": "الرئيسية",
+  "about": "من نحن",
+  "services": "خدماتنا",
+  "solutions": "الحلول",
+  "portfolio": "أعمالنا",
+  "gallery": "معرض الصور",
+  "team": "فريقنا",
+  "blog": "المدونة",
+  "careers": "الوظائف",
+  "contact": "اتصل بنا",
+  "getQuote": "اطلب عرض سعر",
+  "language": "اللغة",
+  "menu": {
+    "servicesGroup": "ماذا نقدم",
+    "solutionsGroup": "حلول القطاعات",
+    "companyGroup": "الشركة"
+  },
+  "themeToggle": {
+    "light": "الوضع الفاتح",
+    "dark": "الوضع الداكن"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "home": "Accueil",
+  "about": "À Propos",
+  "services": "Services",
+  "solutions": "Solutions",
+  "portfolio": "Portfolio",
+  "gallery": "Galerie",
+  "team": "Équipe",
+  "blog": "Blog",
+  "careers": "Carrières",
+  "contact": "Contact",
+  "getQuote": "Demander un Devis",
+  "language": "Langue",
+  "menu": {
+    "servicesGroup": "Ce Que Nous Faisons",
+    "solutionsGroup": "Solutions Sectorielles",
+    "companyGroup": "Entreprise"
+  },
+  "themeToggle": {
+    "light": "Mode Clair",
+    "dark": "Mode Sombre"
+  }
+}

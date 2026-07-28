@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "eyebrow": "Portfolio",
+    "title": "Un Travail qui Génère des Résultats Commerciaux Mesurables",
+    "subtitle": "Une sélection de projets dans l'éducation, la finance, le commerce de détail et la logistique."
+  },
+  "filters": { "all": "Tous les Secteurs" },
+  "viewProject": "Voir le Projet",
+  "projects": [
+    { "slug": "beacon-secondary-school-erp", "title": "ERP de Gestion Scolaire", "client": "École Secondaire Beacon", "industry": "Éducation", "technologies": ["Django", "PostgreSQL", "Next.js", "Docker"], "description": "Un ERP scolaire complet couvrant les admissions, l'académique, la présence, les examens et la communication avec les parents pour un établissement de 1 200 élèves." },
+    { "slug": "kilimanjaro-freight-platform", "title": "Plateforme de Gestion Logistique", "client": "Kilimanjaro Freight Ltd.", "industry": "Logistique", "technologies": ["Django REST Framework", "React", "PostgreSQL", "AWS"], "description": "Une plateforme de suivi de flotte et d'expéditions qui a réduit le temps de traitement des expéditions de 60 % et offert aux clients une visibilité en temps réel." },
+    { "slug": "savanna-retail-commerce", "title": "Système d'E-commerce et d'Inventaire", "client": "Savanna Retail Group", "industry": "Commerce de Détail", "technologies": ["Next.js", "TypeScript", "Django", "Redis"], "description": "Une plateforme e-commerce multi-sites avec gestion d'inventaire intégrée, réduisant les écarts de stock de 45 %." },
+    { "slug": "amani-microfinance-portal", "title": "Portail de Gestion Clients et Prêts", "client": "Amani Microfinance", "industry": "Finance", "technologies": ["Django", "PostgreSQL", "Next.js", "OAuth2"], "description": "Un portail sécurisé de gestion des clients et des prêts avec accès basé sur les rôles, construit selon des normes strictes de protection des données." },
+    { "slug": "serengeti-tourism-site", "title": "Site Web d'Entreprise et Campagne SEO", "client": "Serengeti Adventures", "industry": "Tourisme", "technologies": ["Next.js", "Tailwind CSS", "SEO Technique"], "description": "Un site web multilingue premium et une campagne SEO qui a triplé les demandes de réservation organiques en six mois." },
+    { "slug": "unity-university-portal", "title": "Portail Étudiant Universitaire", "client": "Université Unity", "industry": "Éducation", "technologies": ["Django", "React", "PostgreSQL", "Docker"], "description": "Un portail étudiants et enseignants gérant l'inscription, les résultats et les dossiers académiques pour plus de 8 000 étudiants." }
+  ]
+}

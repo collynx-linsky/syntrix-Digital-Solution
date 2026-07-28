@@ -1,0 +1,43 @@
+{
+  "cta": {
+    "title": "Un projet en tête ? Parlons-en.",
+    "description": "Dites-nous ce que vous construisez — notre équipe répond généralement sous un jour ouvré.",
+    "button": "Démarrer la Conversation"
+  },
+  "description": "Syntrix Digital Solutions est une entreprise technologique basée en Tanzanie, spécialisée dans les logiciels d'entreprise, les sites web, les systèmes ERP et la transformation numérique pilotée par l'IA pour les organisations d'Afrique de l'Est.",
+  "columns": {
+    "company": "Entreprise",
+    "services": "Services",
+    "solutions": "Solutions",
+    "resources": "Ressources",
+    "legal": "Mentions Légales"
+  },
+  "links": {
+    "about": "À Propos",
+    "careers": "Carrières",
+    "blog": "Blog",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "cookies": "Politique des Cookies",
+    "sitemap": "Plan du Site"
+  },
+  "newsletter": {
+    "title": "Restez à la Pointe du Numérique",
+    "description": "Des analyses sur les logiciels, l'ERP, le SEO et la transformation numérique — chaque mois.",
+    "placeholder": "Entrez votre adresse e-mail",
+    "cta": "S'abonner"
+  },
+  "contactInfo": {
+    "officeTitle": "Siège Social",
+    "office": "Dar es Salaam, Tanzanie",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Téléphone"
+  },
+  "social": {
+    "title": "Suivez-Nous"
+  },
+  "copyright": "© {year} Syntrix Digital Solutions. Tous droits réservés.",
+  "madeIn": "Fièrement conçu en Tanzanie 🇹🇿"
+}

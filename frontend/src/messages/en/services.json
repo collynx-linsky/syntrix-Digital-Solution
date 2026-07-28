@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "eyebrow": "Our Services",
+    "title": "End-to-End Digital Solutions for Growing Organizations",
+    "subtitle": "From custom software to SEO and cloud infrastructure — ten service lines, one accountable partner."
+  },
+  "listTitle": "Explore Our Services",
+  "noItems": "Our services list is being updated — check back soon.",
+  "detailCtaTitle": "Discuss This Service With Our Team",
+  "detailCtaDescription": "Tell us about your project and we'll respond with a clear scope, timeline, and cost estimate.",
+  "items": [
+    {
+      "slug": "software-development",
+      "title": "Custom Software Development",
+      "summary": "Bespoke applications engineered around your exact business processes.",
+      "description": "We design and build custom software from the ground up — replacing spreadsheets, disconnected tools, and manual workflows with reliable, purpose-built systems. Every application is architected for maintainability, security, and future growth.",
+      "features": [
+        "Requirements discovery & solution architecture",
+        "Full-stack development (Django, Next.js, React)",
+        "API design & third-party integrations",
+        "Automated testing & quality assurance",
+        "Ongoing support & maintenance"
+      ]
+    },
+    {
+      "slug": "web-development",
+      "title": "Corporate Website Development",
+      "summary": "Premium, SEO-optimized websites that position your brand as an industry leader.",
+      "description": "We design and develop fast, secure, mobile-first corporate websites built on modern frameworks — engineered for search visibility, conversion, and long-term scalability.",
+      "features": [
+        "Custom UI/UX design",
+        "Next.js & TypeScript development",
+        "Advanced technical SEO",
+        "Content management integration",
+        "Performance & accessibility optimization"
+      ]
+    },
+    {
+      "slug": "erp-solutions",
+      "title": "Education & Business ERP Systems",
+      "summary": "Enterprise resource planning systems tailored to schools and growing businesses.",
+      "description": "Our ERP systems bring together academics, finance, HR, inventory, and reporting into a single secure platform — purpose-built for Tanzanian schools and enterprises rather than adapted from generic global software.",
+      "features": [
+        "Student & academic management (Education ERP)",
+        "Finance, HR & payroll modules",
+        "Inventory & procurement management",
+        "Role-based dashboards & reporting",
+        "Multi-branch & multi-campus support"
+      ]
+    },
+    {
+      "slug": "mobile-applications",
+      "title": "Mobile Application Development",
+      "summary": "Native-quality mobile experiences for iOS and Android.",
+      "description": "We build mobile applications that extend your business to where your customers already are — from customer-facing apps to internal operations tools.",
+      "features": [
+        "Cross-platform app development",
+        "Offline-first architecture for low-connectivity areas",
+        "Push notifications & real-time sync",
+        "App Store & Play Store deployment",
+        "Post-launch monitoring & updates"
+      ]
+    },
+    {
+      "slug": "seo-services",
+      "title": "SEO Services",
+      "summary": "Search visibility strategies built for the Tanzanian and East African market.",
+      "description": "We combine technical SEO, content strategy, and local search optimization to help your business rank for the keywords that drive real business inquiries.",
+      "features": [
+        "Technical SEO audits",
+        "Keyword research & content strategy",
+        "Local & Google Business optimization",
+        "Structured data & schema markup",
+        "Monthly performance reporting"
+      ]
+    },
+    {
+      "slug": "digital-marketing",
+      "title": "Digital Marketing",
+      "summary": "Data-driven campaigns across search, social, and email.",
+      "description": "Our digital marketing programs are designed to convert visibility into measurable business growth, with full transparency on spend and performance.",
+      "features": [
+        "Social media strategy & management",
+        "Paid search & social advertising",
+        "Email marketing automation",
+        "Analytics & conversion tracking",
+        "Campaign reporting & optimization"
+      ]
+    },
+    {
+      "slug": "branding",
+      "title": "Branding & Design Solutions",
+      "summary": "Complete visual identity systems built for trust and recognition.",
+      "description": "We create brand identities — logos, guidelines, and marketing assets — that communicate professionalism and build lasting trust with your audience.",
+      "features": [
+        "Logo & visual identity design",
+        "Brand guideline documentation",
+        "Marketing collateral design",
+        "Social media brand kits",
+        "Presentation & pitch deck design"
+      ]
+    },
+    {
+      "slug": "cloud-solutions",
+      "title": "Cloud Solutions",
+      "summary": "Secure, scalable cloud infrastructure for modern applications.",
+      "description": "We design and manage cloud infrastructure that keeps your systems available, secure, and ready to scale — with cost efficiency built in.",
+      "features": [
+        "Cloud architecture & migration",
+        "Containerization with Docker",
+        "CI/CD pipeline setup",
+        "Monitoring, backups & disaster recovery",
+        "Cost optimization reviews"
+      ]
+    },
+    {
+      "slug": "it-consulting",
+      "title": "IT Consulting",
+      "summary": "Strategic technology guidance for confident decision-making.",
+      "description": "We advise leadership teams on technology strategy, system audits, and digital transformation roadmaps — independent of any single vendor's interests.",
+      "features": [
+        "Technology audits & roadmaps",
+        "Digital transformation strategy",
+        "Vendor & tooling evaluation",
+        "IT security assessments",
+        "Team training & capability building"
+      ]
+    },
+    {
+      "slug": "automation",
+      "title": "Business Process Automation",
+      "summary": "AI and workflow automation that eliminates manual, error-prone work.",
+      "description": "We identify repetitive operational processes and automate them with custom workflows and AI-assisted tooling — reducing costs and improving accuracy.",
+      "features": [
+        "Workflow & process automation",
+        "AI-assisted document processing",
+        "Reporting & data pipeline automation",
+        "System integrations",
+        "Change management support"
+      ]
+    }
+  ]
+}

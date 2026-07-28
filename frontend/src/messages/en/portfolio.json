@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "eyebrow": "Portfolio",
+    "title": "Work That Delivers Measurable Business Results",
+    "subtitle": "A selection of projects across education, finance, retail, and logistics."
+  },
+  "filters": {
+    "all": "All Industries"
+  },
+  "viewProject": "View Project",
+  "projects": [
+    {
+      "slug": "beacon-secondary-school-erp",
+      "title": "School Management ERP",
+      "client": "Beacon Secondary School",
+      "industry": "Education",
+      "technologies": ["Django", "PostgreSQL", "Next.js", "Docker"],
+      "description": "A complete school ERP covering admissions, academics, attendance, examinations, and parent communication for a 1,200-student institution."
+    },
+    {
+      "slug": "kilimanjaro-freight-platform",
+      "title": "Logistics Management Platform",
+      "client": "Kilimanjaro Freight Ltd.",
+      "industry": "Logistics",
+      "technologies": ["Django REST Framework", "React", "PostgreSQL", "AWS"],
+      "description": "A fleet and shipment tracking platform that reduced dispatch processing time by 60% and gave clients real-time shipment visibility."
+    },
+    {
+      "slug": "savanna-retail-commerce",
+      "title": "E-Commerce & Inventory System",
+      "client": "Savanna Retail Group",
+      "industry": "Retail",
+      "technologies": ["Next.js", "TypeScript", "Django", "Redis"],
+      "description": "A multi-branch e-commerce platform with integrated inventory management, cutting stock discrepancies by 45%."
+    },
+    {
+      "slug": "amani-microfinance-portal",
+      "title": "Client Management & Loan Portal",
+      "client": "Amani Microfinance",
+      "industry": "Finance",
+      "technologies": ["Django", "PostgreSQL", "Next.js", "OAuth2"],
+      "description": "A secure client and loan management portal with role-based access, built to strict data-protection standards."
+    },
+    {
+      "slug": "serengeti-tourism-site",
+      "title": "Corporate Website & SEO Campaign",
+      "client": "Serengeti Adventures",
+      "industry": "Tourism",
+      "technologies": ["Next.js", "Tailwind CSS", "Technical SEO"],
+      "description": "A premium multilingual website and SEO campaign that tripled organic booking inquiries within six months."
+    },
+    {
+      "slug": "unity-university-portal",
+      "title": "University Student Portal",
+      "client": "Unity University",
+      "industry": "Education",
+      "technologies": ["Django", "React", "PostgreSQL", "Docker"],
+      "description": "A student and faculty portal handling registration, results, and academic records for over 8,000 students."
+    }
+  ]
+}

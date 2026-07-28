@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "eyebrow": "Blog & Insights",
+    "title": "Ideas on Software, SEO, and Digital Transformation",
+    "subtitle": "Practical insights for Tanzanian and East African businesses navigating technology decisions."
+  },
+  "categories": {
+    "all": "All Articles",
+    "technology": "Technology",
+    "seo": "SEO",
+    "digital-transformation": "Digital Transformation"
+  },
+  "readMore": "Read Article",
+  "posts": [
+    {
+      "slug": "why-tanzanian-businesses-need-custom-software",
+      "title": "Why Tanzanian Businesses Are Moving Beyond Off-the-Shelf Software",
+      "category": "technology",
+      "excerpt": "Generic software forces your business to adapt to someone else's process. Here's why custom systems are becoming the smarter long-term investment.",
+      "readTime": 6
+    },
+    {
+      "slug": "seo-guide-tanzania-2026",
+      "title": "A Practical SEO Guide for Tanzanian Companies in 2026",
+      "category": "seo",
+      "excerpt": "How local businesses can win search visibility against larger international competitors — without an unlimited budget.",
+      "readTime": 8
+    },
+    {
+      "slug": "erp-systems-for-schools",
+      "title": "What to Look for in a School ERP System",
+      "category": "digital-transformation",
+      "excerpt": "A breakdown of the features that actually matter when evaluating education management software for your institution.",
+      "readTime": 7
+    },
+    {
+      "slug": "cloud-migration-checklist",
+      "title": "A Cloud Migration Checklist for Growing Businesses",
+      "category": "technology",
+      "excerpt": "Moving to the cloud isn't just a technical decision — here's how to plan a migration that doesn't disrupt operations.",
+      "readTime": 5
+    },
+    {
+      "slug": "digital-transformation-roadmap",
+      "title": "Building a Digital Transformation Roadmap That Actually Works",
+      "category": "digital-transformation",
+      "excerpt": "Digital transformation fails when it's treated as a single project. Here's how to structure it as an ongoing capability.",
+      "readTime": 9
+    },
+    {
+      "slug": "multilingual-website-seo",
+      "title": "How Multilingual Websites Improve SEO and Customer Trust",
+      "category": "seo",
+      "excerpt": "Serving Swahili, French, and Arabic-speaking audiences isn't just accessibility — it's a measurable SEO and conversion advantage.",
+      "readTime": 6
+    }
+  ]
+}

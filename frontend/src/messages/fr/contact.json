@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "Contactez-Nous",
+    "title": "Construisons Ensemble Quelque Chose de Fiable",
+    "subtitle": "Parlez-nous de votre projet et notre équipe vous répondra sous un jour ouvré."
+  },
+  "form": {
+    "name": "Nom Complet",
+    "email": "Adresse E-mail",
+    "phone": "Numéro de Téléphone",
+    "company": "Nom de l'Entreprise",
+    "service": "Service d'Intérêt",
+    "budget": "Budget Estimé",
+    "message": "Parlez-nous de votre projet",
+    "submit": "Envoyer le Message",
+    "privacyNote": "En soumettant ce formulaire, vous acceptez notre Politique de Confidentialité. Nous ne partageons jamais vos informations avec des tiers."
+  },
+  "info": {
+    "officeTitle": "Siège Social",
+    "office": "Dar es Salaam, Tanzanie",
+    "emailTitle": "Écrivez-Nous",
+    "email": "info@syntrixdigitalsolutions.com",
+    "phoneTitle": "Appelez-Nous",
+    "phone": "+255 700 000 000",
+    "hoursTitle": "Heures d'Ouverture",
+    "hours": "Lundi – Vendredi, 8h30 – 17h30 (EAT)"
+  },
+  "social": { "title": "Restons Connectés" },
+  "mapTitle": "Nous Trouver"
+}

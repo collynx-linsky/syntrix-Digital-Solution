@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "eyebrow": "Kuhusu Syntrix Digital Solutions",
+    "title": "Tunajenga Miundombinu ya Kidijitali ya Tanzania, Mfumo Mmoja kwa Wakati",
+    "subtitle": "Sisi ni timu ya wahandisi, wabunifu, na wataalamu wa mikakati wenye dhamira ya kufanya teknolojia ya kiwango cha kimataifa ipatikane kwa biashara za Afrika Mashariki."
+  },
+  "story": {
+    "eyebrow": "Historia Yetu",
+    "title": "Kwa Nini Syntrix Ipo",
+    "paragraphs": [
+      "Syntrix Digital Solutions ilianzishwa kutokana na uchunguzi rahisi: biashara, shule, na taasisi kote Tanzania zilikuwa hazipati huduma za kutosha kutoka kwa watoa huduma za teknolojia — zikipewa ama violezo vya kimataifa vya jumla au mifumo dhaifu ya kienyeji isiyo na msaada.",
+      "Tuliamua kuziba pengo hilo kwa kuchanganya viwango vya uhandisi vya kimataifa na uelewa wa kina wa soko la kienyeji. Kila mfumo tunaojenga — kutoka ERP ya shule hadi tovuti ya kampuni — umeundwa kwa kiwango tunachoshikilia kwa mteja wa kimataifa.",
+      "Leo, Syntrix inasaidia mashirika katika sekta za elimu, fedha, rejareja, usafirishaji, na serikali kwa programu iliyo salama, inayokua, na iliyojengwa kudumu."
+    ]
+  },
+  "vision": {
+    "title": "Dira Yetu",
+    "description": "Kuwa mshirika wa mageuzi ya kidijitali unaoaminika zaidi Afrika Mashariki — kampuni ambayo mashirika yanamgeukia wakati teknolojia inahitaji kufanya kazi, sio kuzinduliwa tu."
+  },
+  "mission": {
+    "title": "Dhamira Yetu",
+    "description": "Kutoa suluhisho za kidijitali za kuaminika zinazosaidia biashara kukua kupitia utengenezaji wa programu, tovuti za kisasa, uendeshaji kiotomatiki, suluhisho za AI, SEO, na mageuzi ya kidijitali."
+  },
+  "values": {
+    "eyebrow": "Maadili Msingi",
+    "title": "Yanayoongoza Kazi Yetu",
+    "items": [
+      { "title": "Kuaminika", "description": "Tunajenga mifumo inayofanya kazi kwa usahihi, kila wakati, katika hali halisi." },
+      { "title": "Uadilifu", "description": "Bei za wazi, ratiba za kweli, na maamuzi ya usanifu tunayoweza kuyaeleza kila wakati." },
+      { "title": "Ubunifu", "description": "Tunabaki na mbinu za kisasa za uhandisi ili wateja wetu wasirithi teknolojia iliyopitwa na wakati." },
+      { "title": "Usalama", "description": "Kila mfumo umeundwa kwa ulinzi wa takwimu na mazoea salama tangu siku ya kwanza." },
+      { "title": "Athari ya Kienyeji", "description": "Tunapima mafanikio kwa ukuaji wanaopata wateja wetu, sio programu tu tunazotoa." }
+    ]
+  },
+  "leadership": {
+    "eyebrow": "Uongozi",
+    "title": "Timu Iliyo Nyuma ya Syntrix",
+    "description": "Timu yetu ya uongozi inaleta pamoja uzoefu wa uhandisi wa programu za kiwango cha kimataifa, usanifu wa wingu, na mikakati ya kidijitali kuongoza kila mradi wa mteja.",
+    "members": [
+      { "name": "Mwanzilishi na Mkurugenzi Mtendaji", "role": "Mkakati na Uhusiano wa Wateja", "bio": "Anaongoza dira ya kampuni na mkakati wa wateja, akihakikisha kila mradi unalingana na matokeo ya kibiashara yanayopimika." },
+      { "name": "Mkuu wa Uhandisi", "role": "Usanifu wa Programu", "bio": "Anasimamia usanifu wa kiufundi katika miradi yote, kutoka mifumo ya ERP hadi miundombinu ya wingu." },
+      { "name": "Mkuu wa Ubunifu", "role": "UI/UX na Chapa", "bio": "Anaongoza ubunifu wa bidhaa na chapa katika majukwaa ya wavuti, simu, na uuzaji." },
+      { "name": "Mkuu wa Ukuaji", "role": "SEO na Uuzaji wa Kidijitali", "bio": "Anaelekeza mkakati wa SEO na kampeni za uuzaji wa kidijitali kwa miradi ya ukuaji wa wateja." }
+    ]
+  },
+  "culture": {
+    "eyebrow": "Utamaduni wa Kampuni",
+    "title": "Jinsi Tunavyofanya Kazi",
+    "description": "Tunafanya kazi kama timu ndogo inayoongozwa na wataalamu wakuu badala ya wakala mkubwa wa nje. Kila mteja anafanya kazi moja kwa moja na wahandisi na wataalamu wanaojenga suluhisho lao — sio tabaka za usimamizi wa akaunti.",
+    "points": [
+      "Ufikiaji wa moja kwa moja kwa wahandisi wanaojenga mfumo wako",
+      "Maamuzi ya usanifu yaliyoandikwa na yanayoweza kuelezwa",
+      "Kujifunza endelevu — timu yetu inabaki na mbinu za kisasa za uhandisi",
+      "Fikra za muda mrefu badala ya utekelezaji wa mradi mmoja tu"
+    ]
+  }
+}

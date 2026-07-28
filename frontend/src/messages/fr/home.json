@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "eyebrow": "Entreprise Technologique et de Transformation Numérique · Tanzanie",
+    "titleLine1": "Concevoir l'Épine Dorsale Numérique des",
+    "titleLine2": "Entreprises d'Afrique de l'Est",
+    "subtitle": "Syntrix Digital Solutions conçoit et développe des logiciels d'entreprise, des systèmes ERP, des sites web et des expériences numériques pilotées par l'IA qui aident les organisations en Tanzanie et en Afrique de l'Est à fonctionner plus rapidement, plus sûrement et plus intelligemment.",
+    "primaryCta": "Demander une Consultation Gratuite",
+    "secondaryCta": "Découvrir Nos Services",
+    "trustBadge": "La confiance d'écoles, d'entreprises et de sociétés en croissance à travers la Tanzanie"
+  },
+  "intro": {
+    "eyebrow": "Qui Sommes-Nous",
+    "title": "Un Partenaire de Transformation Numérique Conçu pour la Croissance de l'Afrique",
+    "description": "Nous sommes une entreprise technologique à service complet basée en Tanzanie, alliant ingénierie logicielle de niveau entreprise, architecture cloud, SEO et IA pour aider les entreprises, écoles et institutions à se moderniser en toute confiance. Des systèmes ERP sur mesure à l'infrastructure cloud sécurisée, nous concevons des solutions qui évoluent avec vous.",
+    "points": [
+      "Normes d'ingénierie de niveau entreprise",
+      "Compréhension approfondie du marché est-africain",
+      "Livraison complète — de la stratégie au support",
+      "Sécurité et conformité intégrées dès le premier jour"
+    ],
+    "badgeValue": "10+",
+    "badgeLabel": "Années d'Impact"
+  },
+  "overview": {
+    "eyebrow": "Aperçu des Solutions Numériques",
+    "title": "Chaque Couche de Votre Transformation Numérique, Prise en Charge",
+    "description": "Logiciels, infrastructure, croissance et marque — livrés comme un système cohérent plutôt que des prestataires déconnectés.",
+    "pillars": [
+      { "title": "Construire", "description": "Logiciels sur mesure, sites web, systèmes ERP et applications mobiles conçus pour la fiabilité à grande échelle." },
+      { "title": "Automatiser", "description": "Automatisation des processus métier et solutions IA qui éliminent le travail manuel et réduisent les erreurs." },
+      { "title": "Croître", "description": "SEO, marketing digital et image de marque qui transforment votre présence numérique en moteur de croissance." },
+      { "title": "Sécuriser et Évoluer", "description": "Architecture cloud et conseil informatique qui gardent les systèmes sécurisés, disponibles et prêts à évoluer." }
+    ]
+  },
+  "featuredProjects": {
+    "eyebrow": "Nos Réalisations",
+    "title": "Projets Récents",
+    "description": "Un aperçu de la façon dont nous avons aidé des organisations à travers la Tanzanie à se moderniser en toute confiance."
+  },
+  "services": {
+    "eyebrow": "Nos Services",
+    "title": "Des Solutions Numériques Complètes Sous un Même Toit",
+    "description": "Dix lignes de services couvrant l'ensemble du cycle de vie de la transformation numérique d'entreprise.",
+    "viewAll": "Voir Tous les Services"
+  },
+  "techStack": {
+    "eyebrow": "Pile Technologique",
+    "title": "Une Technologie Moderne et Éprouvée",
+    "description": "Nous construisons sur des frameworks éprouvés en production, adoptés par les plus grandes entreprises technologiques mondiales — choisis pour leur performance, leur sécurité et leur maintenabilité à long terme.",
+    "categories": [
+      { "label": "Frontend", "items": ["Next.js", "React", "TypeScript", "Tailwind CSS"] },
+      { "label": "Backend", "items": ["Django", "Django REST Framework", "Python", "Node.js"] },
+      { "label": "Données", "items": ["PostgreSQL", "Redis", "API REST", "GraphQL"] },
+      { "label": "Cloud & DevOps", "items": ["Docker", "AWS", "CI/CD", "Nginx"] },
+      { "label": "IA & Automatisation", "items": ["Apprentissage Automatique", "Automatisation des Processus", "Traduction IA", "Pipelines de Données"] }
+    ]
+  },
+  "whyChooseUs": {
+    "eyebrow": "Pourquoi Choisir Syntrix",
+    "title": "Qualité d'Entreprise, Compréhension Locale",
+    "reasons": [
+      { "title": "Ingénierie de Niveau Entreprise", "description": "Architecture prête pour la production, code testé et infrastructure évolutive — pas de raccourcis à partir de modèles." },
+      { "title": "Sécurité Dès la Conception", "description": "L'authentification, la protection des données et la conception d'API sécurisée sont intégrées dès la première ligne de code." },
+      { "title": "Expertise du Marché Local", "description": "Nous comprenons les réalités commerciales, réglementaires et infrastructurelles de la Tanzanie et de l'Afrique de l'Est." },
+      { "title": "Livraison Transparente", "description": "Délais clairs, décisions d'architecture documentées et communication honnête tout au long de chaque projet." },
+      { "title": "Partenariat à Long Terme", "description": "Nous soutenons, maintenons et faisons évoluer ce que nous construisons — nous ne disparaissons pas après le lancement." },
+      { "title": "Prêt pour le Multilingue et Multi-Marchés", "description": "Chaque solution est conçue pour servir les publics anglophones, swahiliphones, francophones et arabophones dès le premier jour." }
+    ]
+  },
+  "industries": {
+    "eyebrow": "Secteurs Desservis",
+    "title": "Des Solutions Conçues sur Mesure pour Chaque Secteur",
+    "items": [
+      { "title": "Éducation", "description": "Systèmes ERP pour écoles et universités, gestion des étudiants et plateformes d'e-learning." },
+      { "title": "Finance et Banque", "description": "Systèmes sécurisés et conformes pour les institutions financières et les innovateurs fintech." },
+      { "title": "Santé", "description": "Gestion des patients, dossiers médicaux et infrastructure de santé numérique." },
+      { "title": "Commerce de Détail et E-commerce", "description": "Boutiques en ligne, inventaire et systèmes de gestion d'entreprise." },
+      { "title": "Gouvernement et ONG", "description": "Services numériques, systèmes de reporting et plateformes publiques." },
+      { "title": "Industrie et Logistique", "description": "Automatisation et systèmes de gestion d'entreprise pour l'efficacité opérationnelle." }
+    ]
+  },
+  "stats": {
+    "eyebrow": "Notre Impact",
+    "items": [
+      { "value": "50+", "label": "Projets Livrés" },
+      { "value": "30+", "label": "Entreprises Transformées" },
+      { "value": "4", "label": "Langues Prises en Charge" },
+      { "value": "99,9%", "label": "Objectif de Disponibilité de la Plateforme" }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Témoignages de Clients",
+    "title": "La Confiance d'Organisations à Travers la Tanzanie",
+    "items": [
+      { "quote": "Syntrix a reconstruit tout notre flux de gestion des étudiants. Ce qui prenait des jours à notre personnel ne prend plus que quelques minutes, et les parents ont enfin une réelle visibilité sur les progrès de leurs enfants.", "name": "Responsable Administratif", "role": "École Secondaire Privée, Dar es Salaam" },
+      { "quote": "Notre nouveau site web et notre stratégie SEO de Syntrix ont doublé nos demandes qualifiées en quatre mois. L'équipe a compris notre marché comme aucune agence internationale ne l'avait fait auparavant.", "name": "Directeur Général", "role": "Entreprise de Logistique, Tanzanie" },
+      { "quote": "Ils n'ont pas seulement écrit du code — ils ont expliqué chaque décision architecturale et nous ont laissé une documentation que notre équipe interne peut réellement maintenir.", "name": "Responsable Informatique", "role": "Société de Services Financiers" }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à Transformer Numériquement Votre Entreprise ?",
+    "description": "Parlez à notre équipe de la façon dont un logiciel sur mesure, un système ERP ou une présence numérique moderne peuvent faire avancer votre organisation.",
+    "primary": "Demander une Consultation Gratuite",
+    "secondary": "Voir Notre Portfolio"
+  }
+}

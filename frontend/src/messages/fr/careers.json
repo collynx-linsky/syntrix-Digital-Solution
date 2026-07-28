@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "eyebrow": "Carrières",
+    "title": "Construisons Ensemble l'Avenir Numérique de l'Afrique",
+    "subtitle": "Nous recherchons toujours des ingénieurs, designers et stratèges talentueux qui tiennent à faire un travail d'excellence."
+  },
+  "culture": {
+    "title": "Pourquoi Travailler chez Syntrix",
+    "points": [
+      { "title": "Une Véritable Responsabilisation", "description": "Travaillez directement sur des systèmes destinés aux clients dès le premier jour — aucune tâche superflue." },
+      { "title": "Apprentissage Continu", "description": "Accès à des formations, des outils modernes et un mentorat par des ingénieurs seniors." },
+      { "title": "Flexible et Favorable au Télétravail", "description": "Des arrangements hybrides et à distance pour les postes qui le permettent." },
+      { "title": "Un Impact Significatif", "description": "Votre travail alimente des écoles, des entreprises et des institutions à travers la Tanzanie." }
+    ]
+  },
+  "openPositions": "Postes Ouverts",
+  "noPositions": "Aucun poste n'est ouvert actuellement — revenez bientôt ou envoyez-nous votre CV pour de futures opportunités.",
+  "employmentTypes": {
+    "full_time": "Temps Plein",
+    "part_time": "Temps Partiel",
+    "contract": "Contrat",
+    "internship": "Stage"
+  },
+  "application": {
+    "title": "Postuler",
+    "description": "Intéressé à rejoindre l'équipe ? Envoyez-nous vos informations et votre CV ci-dessous.",
+    "form": {
+      "fullName": "Nom Complet",
+      "email": "Adresse E-mail",
+      "phone": "Numéro de Téléphone",
+      "positionApplyingFor": "Poste Visé",
+      "linkedin": "URL LinkedIn / Portfolio",
+      "coverMessage": "Dites-nous pourquoi vous êtes un excellent candidat",
+      "resume": "Télécharger CV / Résumé",
+      "submit": "Soumettre la Candidature",
+      "consent": "Je consens à ce que Syntrix Digital Solutions conserve les détails de ma candidature à des fins de recrutement."
+    }
+  }
+}

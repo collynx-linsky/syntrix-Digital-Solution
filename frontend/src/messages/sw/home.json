@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "eyebrow": "Kampuni ya Teknolojia na Mageuzi ya Kidijitali · Tanzania",
+    "titleLine1": "Tunajenga Msingi wa Kidijitali wa",
+    "titleLine2": "Biashara za Afrika Mashariki",
+    "subtitle": "Syntrix Digital Solutions inabuni na kujenga mifumo ya programu, ERP, tovuti, na uzoefu wa kidijitali unaotumia AI unaosaidia mashirika Tanzania na Afrika Mashariki kufanya kazi kwa haraka, usalama, na akili zaidi.",
+    "primaryCta": "Omba Ushauri wa Bure",
+    "secondaryCta": "Angalia Huduma Zetu",
+    "trustBadge": "Tunaaminiwa na shule, makampuni makubwa, na biashara zinazokua Tanzania"
+  },
+  "intro": {
+    "eyebrow": "Sisi Ni Nani",
+    "title": "Mshirika wa Mageuzi ya Kidijitali Aliyejengwa kwa Ajili ya Ukuaji wa Afrika",
+    "description": "Sisi ni kampuni ya teknolojia yenye makao makuu Tanzania, tukichanganya uhandisi wa programu za kiwango cha kimataifa, usanifu wa wingu, SEO, na AI kusaidia biashara, shule, na taasisi kubadilika kidijitali kwa kujiamini. Kutoka mifumo ya ERP hadi miundombinu salama ya wingu, tunajenga suluhisho zinazokua pamoja nawe.",
+    "points": [
+      "Viwango vya uhandisi vya kiwango cha kimataifa",
+      "Uelewa wa kina wa soko la Afrika Mashariki",
+      "Utekelezaji kamili — kutoka mkakati hadi msaada",
+      "Usalama na uzingatiaji sheria vimejengwa tangu siku ya kwanza"
+    ],
+    "badgeValue": "10+",
+    "badgeLabel": "Miaka ya Athari"
+  },
+  "overview": {
+    "eyebrow": "Muhtasari wa Suluhisho za Kidijitali",
+    "title": "Kila Sehemu ya Mageuzi Yako ya Kidijitali, Imeshughulikiwa",
+    "description": "Programu, miundombinu, ukuaji, na chapa — vinatolewa kama mfumo mmoja badala ya wauzaji tofauti.",
+    "pillars": [
+      { "title": "Kujenga", "description": "Programu maalum, tovuti, mifumo ya ERP, na programu za simu zilizoundwa kwa uaminifu na ukubwa." },
+      { "title": "Kuboresha Kiotomatiki", "description": "Uendeshaji wa kiotomatiki wa michakato ya biashara na suluhisho za AI zinazoondoa kazi za mikono na makosa." },
+      { "title": "Kukua", "description": "SEO, uuzaji wa kidijitali, na uundaji wa chapa vinavyogeuza uwepo wako wa kidijitali kuwa injini ya ukuaji." },
+      { "title": "Kulinda na Kukuza", "description": "Usanifu wa wingu na ushauri wa TEHAMA unaoweka mifumo salama, inapatikana, na tayari kukua." }
+    ]
+  },
+  "featuredProjects": {
+    "eyebrow": "Kazi Yetu",
+    "title": "Miradi ya Hivi Karibuni",
+    "description": "Angalia jinsi tulivyosaidia mashirika kote Tanzania kubadilika kidijitali kwa kujiamini."
+  },
+  "services": {
+    "eyebrow": "Huduma Zetu",
+    "title": "Suluhisho Kamili za Kidijitali Chini ya Paa Moja",
+    "description": "Huduma kuu kumi zinazoshughulikia mzunguko kamili wa mageuzi ya kidijitali ya kibiashara.",
+    "viewAll": "Angalia Huduma Zote"
+  },
+  "techStack": {
+    "eyebrow": "Teknolojia Tunazotumia",
+    "title": "Teknolojia za Kisasa na Zilizothibitishwa",
+    "description": "Tunajenga kwa kutumia mifumo iliyothibitishwa kikazi inayoaminiwa na makampuni makubwa ya teknolojia duniani — yaliyochaguliwa kwa utendaji, usalama, na udumishaji wa muda mrefu.",
+    "categories": [
+      { "label": "Mbele (Frontend)", "items": ["Next.js", "React", "TypeScript", "Tailwind CSS"] },
+      { "label": "Nyuma (Backend)", "items": ["Django", "Django REST Framework", "Python", "Node.js"] },
+      { "label": "Takwimu", "items": ["PostgreSQL", "Redis", "REST APIs", "GraphQL"] },
+      { "label": "Wingu na DevOps", "items": ["Docker", "AWS", "CI/CD", "Nginx"] },
+      { "label": "AI na Uendeshaji Kiotomatiki", "items": ["Ujifunzaji wa Mashine", "Uendeshaji Kiotomatiki", "Tafsiri ya AI", "Mifumo ya Takwimu"] }
+    ]
+  },
+  "whyChooseUs": {
+    "eyebrow": "Kwa Nini Uchague Syntrix",
+    "title": "Ubora wa Kiwango cha Kimataifa, Uelewa wa Kienyeji",
+    "reasons": [
+      { "title": "Uhandisi wa Kiwango cha Kimataifa", "description": "Usanifu tayari kwa uzalishaji, msimbo uliojaribiwa, na miundombinu inayokua — sio njia za mkato za violezo." },
+      { "title": "Usalama Kwa Usanifu", "description": "Uthibitishaji, ulinzi wa takwimu, na usanifu salama wa API vimejengwa tangu mstari wa kwanza wa msimbo." },
+      { "title": "Utaalamu wa Soko la Kienyeji", "description": "Tunaelewa hali halisi za kibiashara, kisheria, na miundombinu za Tanzania na Afrika Mashariki." },
+      { "title": "Utekelezaji wa Wazi", "description": "Ratiba wazi, maamuzi ya usanifu yaliyoandikwa, na mawasiliano ya kweli katika kila mradi." },
+      { "title": "Ushirikiano wa Muda Mrefu", "description": "Tunasaidia, kudumisha, na kuboresha tunachojenga — hatutoweka baada ya uzinduzi." },
+      { "title": "Tayari kwa Lugha na Masoko Mengi", "description": "Kila suluhisho limejengwa kuhudumia watumiaji wa Kiingereza, Kiswahili, Kifaransa, na Kiarabu tangu siku ya kwanza." }
+    ]
+  },
+  "industries": {
+    "eyebrow": "Sekta Tunazohudumia",
+    "title": "Suluhisho Zilizoundwa Mahususi kwa Kila Sekta",
+    "items": [
+      { "title": "Elimu", "description": "Mifumo ya ERP ya shule na vyuo, usimamizi wa wanafunzi, na mifumo ya kujifunza mtandaoni." },
+      { "title": "Fedha na Benki", "description": "Mifumo salama na inayozingatia sheria kwa taasisi za fedha na wabunifu wa fintech." },
+      { "title": "Afya", "description": "Usimamizi wa wagonjwa, kumbukumbu, na miundombinu ya afya ya kidijitali." },
+      { "title": "Rejareja na Biashara Mtandaoni", "description": "Maduka mtandaoni, hesabu za bidhaa, na mifumo ya usimamizi wa biashara." },
+      { "title": "Serikali na Mashirika Yasiyo ya Kiserikali", "description": "Huduma za kidijitali, mifumo ya taarifa, na majukwaa ya umma." },
+      { "title": "Uzalishaji na Usafirishaji", "description": "Uendeshaji kiotomatiki na mifumo ya usimamizi wa biashara kwa ufanisi wa uendeshaji." }
+    ]
+  },
+  "stats": {
+    "eyebrow": "Matokeo Yetu",
+    "items": [
+      { "value": "50+", "label": "Miradi Iliyokamilika" },
+      { "value": "30+", "label": "Biashara Zilizobadilishwa" },
+      { "value": "4", "label": "Lugha Zinazotumika" },
+      { "value": "99.9%", "label": "Lengo la Upatikanaji wa Mfumo" }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Maoni ya Wateja",
+    "title": "Tunaaminiwa na Mashirika Kote Tanzania",
+    "items": [
+      { "quote": "Syntrix walijenga upya mfumo wetu wa usimamizi wa wanafunzi. Kazi iliyokuwa ikichukua siku sasa inachukua dakika, na wazazi hatimaye wana uwazi wa kweli kuhusu maendeleo ya watoto wao.", "name": "Mkuu wa Utawala", "role": "Shule ya Sekondari, Dar es Salaam" },
+      { "quote": "Tovuti yetu mpya na mkakati wa SEO kutoka Syntrix uliongeza mara mbili maombi yenye ubora ndani ya miezi minne. Timu ilielewa soko letu kwa namna ambayo mashirika ya kimataifa hayakuwahi kufanya.", "name": "Mkurugenzi Mtendaji", "role": "Kampuni ya Usafirishaji, Tanzania" },
+      { "quote": "Hawakuandika tu msimbo — walielezea kila uamuzi wa kiusanifu na kutuachia nyaraka ambazo timu yetu ya ndani inaweza kuzitunza.", "name": "Meneja wa TEHAMA", "role": "Kampuni ya Huduma za Fedha" }
+    ]
+  },
+  "cta": {
+    "title": "Uko Tayari Kubadilisha Biashara Yako Kidijitali?",
+    "description": "Zungumza na timu yetu kuhusu jinsi programu maalum, mifumo ya ERP, au uwepo wa kisasa wa kidijitali unavyoweza kusonga shirika lako mbele.",
+    "primary": "Omba Ushauri wa Bure",
+    "secondary": "Angalia Miradi Yetu"
+  }
+}

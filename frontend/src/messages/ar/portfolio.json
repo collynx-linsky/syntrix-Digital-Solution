@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "eyebrow": "أعمالنا",
+    "title": "أعمال تحقق نتائج تجارية قابلة للقياس",
+    "subtitle": "مجموعة مختارة من المشاريع في التعليم والمالية والتجزئة والخدمات اللوجستية."
+  },
+  "filters": { "all": "جميع القطاعات" },
+  "viewProject": "عرض المشروع",
+  "projects": [
+    { "slug": "beacon-secondary-school-erp", "title": "نظام تخطيط موارد لإدارة المدرسة", "client": "مدرسة بيكون الثانوية", "industry": "التعليم", "technologies": ["Django", "PostgreSQL", "Next.js", "Docker"], "description": "نظام تخطيط موارد متكامل للمدرسة يغطي القبول والشؤون الأكاديمية والحضور والامتحانات والتواصل مع أولياء الأمور لمؤسسة تضم 1200 طالب." },
+    { "slug": "kilimanjaro-freight-platform", "title": "منصة إدارة الخدمات اللوجستية", "client": "Kilimanjaro Freight Ltd.", "industry": "الخدمات اللوجستية", "technologies": ["Django REST Framework", "React", "PostgreSQL", "AWS"], "description": "منصة لتتبع الأسطول والشحنات قلّلت وقت معالجة الشحن بنسبة 60% ومنحت العملاء رؤية فورية للشحنات." },
+    { "slug": "savanna-retail-commerce", "title": "نظام التجارة الإلكترونية والمخزون", "client": "Savanna Retail Group", "industry": "التجزئة", "technologies": ["Next.js", "TypeScript", "Django", "Redis"], "description": "منصة تجارة إلكترونية متعددة الفروع مع إدارة مخزون متكاملة، خفّضت تباينات المخزون بنسبة 45%." },
+    { "slug": "amani-microfinance-portal", "title": "بوابة إدارة العملاء والقروض", "client": "Amani Microfinance", "industry": "المالية", "technologies": ["Django", "PostgreSQL", "Next.js", "OAuth2"], "description": "بوابة آمنة لإدارة العملاء والقروض مع وصول قائم على الصلاحيات، مبنية وفق معايير صارمة لحماية البيانات." },
+    { "slug": "serengeti-tourism-site", "title": "موقع إلكتروني للشركة وحملة تحسين محركات البحث", "client": "Serengeti Adventures", "industry": "السياحة", "technologies": ["Next.js", "Tailwind CSS", "تحسين تقني لمحركات البحث"], "description": "موقع إلكتروني متميز متعدد اللغات وحملة تحسين محركات بحث ضاعفت استفسارات الحجز العضوية ثلاث مرات خلال ستة أشهر." },
+    { "slug": "unity-university-portal", "title": "بوابة طلاب الجامعة", "client": "جامعة Unity", "industry": "التعليم", "technologies": ["Django", "React", "PostgreSQL", "Docker"], "description": "بوابة للطلاب وأعضاء هيئة التدريس تتعامل مع التسجيل والنتائج والسجلات الأكاديمية لأكثر من 8000 طالب." }
+  ]
+}

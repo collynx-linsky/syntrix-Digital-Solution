@@ -1,0 +1,14 @@
+{
+  "hero": {
+    "eyebrow": "Suluhisho",
+    "title": "Suluhisho za Sekta Zilizoundwa kwa Athari Halisi",
+    "subtitle": "Majukwaa yaliyoundwa mahususi kushughulikia changamoto za elimu, uendeshaji wa biashara, ukubwa wa kiwango cha shirika, na ukuaji unaotumia AI."
+  },
+  "noItems": "Orodha ya suluhisho zetu inasasishwa — angalia tena hivi karibuni.",
+  "items": [
+    { "slug": "education-technology", "title": "Teknolojia ya Elimu", "summary": "Mifumo kamili ya usimamizi wa shule na vyuo.", "description": "Jukwaa letu la ERP ya Elimu linaleta pamoja udahili, masuala ya kitaaluma, mahudhurio, mitihani, fedha, na mawasiliano ya wazazi katika mfumo mmoja salama — likipunguza mzigo wa kiutawala na kuboresha matokeo kwa shule za ukubwa wowote.", "capabilities": ["Usimamizi wa taarifa za wanafunzi na udahili", "Ratiba, mahudhurio na mitihani", "Usimamizi wa ada na uunganishaji wa fedha", "Jukwaa la mawasiliano na wazazi/walezi", "Msaada wa kampasi na matawi mengi"] },
+    { "slug": "business-automation", "title": "Uendeshaji Kiotomatiki wa Biashara", "summary": "Ondoa kazi za mikono kwa uendeshaji kiotomatiki wa akili wa michakato.", "description": "Tunabuni mifumo ya uendeshaji kiotomatiki inayoshughulikia kazi za uendeshaji zinazorudiwa — idhini, taarifa, uwekaji wa data, na arifa — ikiachia timu yako muda wa kufanya kazi zenye thamani zaidi.", "capabilities": ["Uendeshaji kiotomatiki wa michakato na idhini", "Taarifa na dashibodi za kiotomatiki", "Uchakataji wa nyaraka na uchimbaji wa data", "Uunganishaji na mifumo ya wahusika wengine", "Mifumo maalum ya arifa na taarifa"] },
+    { "slug": "enterprise-systems", "title": "Mifumo ya Kiwango cha Shirika", "summary": "Majukwaa yanayokua ya usimamizi wa biashara kwa mashirika yanayokua.", "description": "Mifumo yetu ya kiwango cha shirika inaunganisha fedha, rasilimali watu, hesabu, na uendeshaji katika chanzo kimoja cha ukweli — kilichoundwa kukua shirika lako linavyokua kwa ukubwa na utata.", "capabilities": ["Mifumo ya usimamizi wa biashara (ERP)", "Majukwaa ya rasilimali watu na mishahara", "Usimamizi wa hesabu na msururu wa ugavi", "Ufikiaji wa ngazi za majukumu na rekodi za ukaguzi", "Taarifa na uchambuzi maalum"] },
+    { "slug": "ai-solutions", "title": "Suluhisho za AI", "summary": "AI ya vitendo inayoboresha usahihi, kasi, na uzoefu wa wateja.", "description": "Tunajenga vipengele vya AI vya vitendo — kutoka uchakataji wa akili wa nyaraka hadi tafsiri na mazungumzo yanayotumia AI — yaliyoundwa kutatua matatizo mahususi ya uendeshaji badala ya teknolojia kwa ajili yake yenyewe.", "capabilities": ["Tafsiri na ujanibishaji unaotumia AI", "Uchakataji wa akili wa nyaraka na data", "Uchambuzi wa kutabiri na taarifa", "Zana za msaada wa wateja zinazotumia AI", "Uunganishaji maalum wa ujifunzaji wa mashine"] }
+  ]
+}

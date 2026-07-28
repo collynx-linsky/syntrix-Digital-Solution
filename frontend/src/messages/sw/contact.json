@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "Wasiliana Nasi",
+    "title": "Hebu Tujenge Kitu cha Kuaminika Pamoja",
+    "subtitle": "Tuambie kuhusu mradi wako na timu yetu itajibu ndani ya siku moja ya kazi."
+  },
+  "form": {
+    "name": "Jina Kamili",
+    "email": "Anwani ya Barua Pepe",
+    "phone": "Namba ya Simu",
+    "company": "Jina la Kampuni",
+    "service": "Huduma Unayovutiwa Nayo",
+    "budget": "Bajeti Inayokadiriwa",
+    "message": "Tuambie kuhusu mradi wako",
+    "submit": "Tuma Ujumbe",
+    "privacyNote": "Kwa kutuma fomu hii, unakubaliana na Sera yetu ya Faragha. Hatuwahi kushiriki taarifa zako na wahusika wengine."
+  },
+  "info": {
+    "officeTitle": "Ofisi Kuu",
+    "office": "Dar es Salaam, Tanzania",
+    "emailTitle": "Tutumie Barua Pepe",
+    "email": "info@syntrixdigitalsolutions.com",
+    "phoneTitle": "Tupigie Simu",
+    "phone": "+255 700 000 000",
+    "hoursTitle": "Muda wa Kazi",
+    "hours": "Jumatatu – Ijumaa, 8:30 Asubuhi – 5:30 Jioni (EAT)"
+  },
+  "social": { "title": "Ungana Nasi" },
+  "mapTitle": "Tupate"
+}

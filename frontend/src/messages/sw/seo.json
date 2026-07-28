@@ -1,0 +1,55 @@
+{
+  "siteName": "Syntrix Digital Solutions",
+  "defaultTitle": "Syntrix Digital Solutions | Kampuni ya Kutengeneza Programu Tanzania",
+  "titleTemplate": "%s | Syntrix Digital Solutions",
+  "home": {
+    "title": "Syntrix Digital Solutions | Kampuni ya Kutengeneza Programu Tanzania",
+    "description": "Syntrix Digital Solutions ni kampuni kiongozi ya kutengeneza programu Tanzania inayotoa programu maalum, utengenezaji wa tovuti, mifumo ya ERP, huduma za SEO, na suluhisho za mageuzi ya kidijitali kwa biashara za Afrika Mashariki.",
+    "keywords": "kampuni ya kutengeneza programu Tanzania, utengenezaji wa tovuti Tanzania, programu ya ERP Tanzania, kampuni ya suluhisho za kidijitali Tanzania, huduma za SEO Tanzania, suluhisho za uendeshaji kiotomatiki wa biashara"
+  },
+  "about": {
+    "title": "Kuhusu Sisi | Kampuni Kiongozi ya Mageuzi ya Kidijitali Tanzania",
+    "description": "Jifunze kuhusu Syntrix Digital Solutions — historia yetu, dhamira, dira, na timu inayojenga suluhisho za kidijitali za kiwango cha shirika kwa biashara Tanzania na Afrika Mashariki.",
+    "keywords": "kampuni ya mageuzi ya kidijitali Tanzania, kampuni ya teknolojia Dar es Salaam, kampuni ya TEHAMA Tanzania"
+  },
+  "services": {
+    "title": "Huduma Zetu | Programu, Wavuti, ERP, SEO na Suluhisho za Wingu",
+    "description": "Angalia huduma zote za Syntrix Digital Solutions: utengenezaji wa programu maalum, utengenezaji wa tovuti, mifumo ya ERP ya elimu na biashara, programu za simu, SEO, uuzaji wa kidijitali, chapa, na suluhisho za wingu.",
+    "keywords": "huduma za kutengeneza programu Tanzania, programu ya ERP Tanzania, huduma za SEO Tanzania, suluhisho za wingu Tanzania, utengenezaji wa programu za simu Tanzania"
+  },
+  "solutions": {
+    "title": "Suluhisho za Sekta | Elimu, Uendeshaji Kiotomatiki na Teknolojia ya AI",
+    "description": "Gundua suluhisho za sekta za Syntrix katika teknolojia ya elimu, uendeshaji kiotomatiki wa biashara, mifumo ya kiwango cha shirika, na AI — zilizoundwa kwa mashirika Tanzania na Afrika Mashariki.",
+    "keywords": "teknolojia ya elimu Tanzania, suluhisho za uendeshaji kiotomatiki wa biashara, mifumo ya kiwango cha shirika Tanzania, suluhisho za AI Tanzania"
+  },
+  "portfolio": {
+    "title": "Miradi | Miradi Yetu ya Mageuzi ya Kidijitali",
+    "description": "Angalia jinsi Syntrix Digital Solutions imesaidia shule, taasisi za fedha, na biashara kote Tanzania kubadilika kidijitali kwa programu maalum na mifumo ya ERP.",
+    "keywords": "miradi ya kutengeneza programu Tanzania, tafiti za mifumo ya ERP Tanzania, miradi ya mageuzi ya kidijitali"
+  },
+  "blog": {
+    "title": "Blogu | Maarifa ya Teknolojia, SEO na Mageuzi ya Kidijitali",
+    "description": "Makala na maarifa kuhusu utengenezaji wa programu, SEO, mifumo ya ERP, na mageuzi ya kidijitali kwa biashara Tanzania na Afrika Mashariki.",
+    "keywords": "huduma za SEO Tanzania, blogu ya mageuzi ya kidijitali, makala za teknolojia Tanzania"
+  },
+  "careers": {
+    "title": "Nafasi za Kazi | Jiunge na Syntrix Digital Solutions",
+    "description": "Angalia fursa za kazi katika Syntrix Digital Solutions — kampuni ya teknolojia inayokua ikijenga programu, mifumo ya ERP, na uzoefu wa kidijitali kote Tanzania.",
+    "keywords": "kazi za TEHAMA Tanzania, kazi za mtengenezaji wa programu Dar es Salaam, kazi za teknolojia Tanzania"
+  },
+  "contact": {
+    "title": "Wasiliana Nasi | Pata Ushauri wa Bure",
+    "description": "Wasiliana na Syntrix Digital Solutions kwa ushauri wa bure kuhusu utengenezaji wa programu, mifumo ya ERP, utengenezaji wa tovuti, au huduma za mageuzi ya kidijitali Tanzania.",
+    "keywords": "mawasiliano ya kampuni ya programu Tanzania, wakala wa kidijitali Dar es Salaam, ushauri wa TEHAMA Tanzania"
+  },
+  "gallery": {
+    "title": "Matunzio | Picha za Kazi Zetu Kote Tanzania",
+    "description": "Angalia Syntrix Digital Solutions ikifanya kazi — timu yetu, miradi yetu, na wateja wetu kote Tanzania na Afrika Mashariki.",
+    "keywords": "picha za Syntrix Digital Solutions, matunzio ya kampuni ya programu Tanzania, picha za mageuzi ya kidijitali"
+  },
+  "team": {
+    "title": "Timu Yetu | Kutana na Watu Walio Nyuma ya Syntrix Digital Solutions",
+    "description": "Kutana na wahandisi, wabunifu, na wataalamu wa mikakati wa Syntrix Digital Solutions wanaojenga suluhisho za kidijitali za kiwango cha shirika kote Tanzania na Afrika Mashariki.",
+    "keywords": "timu ya Syntrix Digital Solutions, timu ya kampuni ya programu Tanzania, uongozi wa teknolojia Tanzania"
+  }
+}

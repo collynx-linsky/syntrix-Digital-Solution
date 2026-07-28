@@ -1,0 +1,45 @@
+{
+  "brand": "Syntrix Digital Solutions",
+  "tagline": "Tunajenga Mustakabali wa Kidijitali wa Afrika",
+  "buttons": {
+    "getStarted": "Anza Sasa",
+    "getQuote": "Omba Bei",
+    "learnMore": "Jifunze Zaidi",
+    "readMore": "Soma Zaidi",
+    "viewAll": "Angalia Zote",
+    "viewCaseStudy": "Angalia Mradi",
+    "contactUs": "Wasiliana Nasi",
+    "submit": "Tuma",
+    "send": "Tuma Ujumbe",
+    "subscribe": "Jisajili",
+    "apply": "Tuma Maombi",
+    "backToHome": "Rudi Mwanzo",
+    "viewServices": "Angalia Huduma",
+    "exploreSolutions": "Angalia Suluhisho"
+  },
+  "labels": {
+    "loading": "Inapakia…",
+    "email": "Barua Pepe",
+    "phone": "Simu",
+    "name": "Jina Kamili",
+    "message": "Ujumbe",
+    "company": "Kampuni",
+    "subject": "Somo",
+    "location": "Mahali",
+    "industry": "Sekta",
+    "technologies": "Teknolojia Zilizotumika",
+    "client": "Mteja",
+    "date": "Tarehe",
+    "category": "Aina",
+    "status": "Hali",
+    "readTime": "dakika za kusoma",
+    "search": "Tafuta",
+    "successTitle": "Asante",
+    "successMessage": "Ombi lako limepokelewa. Timu yetu itawasiliana nawe hivi karibuni.",
+    "errorMessage": "Hitilafu imetokea. Tafadhali jaribu tena."
+  },
+  "meta": {
+    "companyLocation": "Dar es Salaam, Tanzania · Tunahudumia Afrika Mashariki na kwingineko",
+    "founded": "Tulianzishwa kuwezesha mageuzi ya kidijitali ya Tanzania"
+  }
+}

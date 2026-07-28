@@ -1,0 +1,55 @@
+{
+  "siteName": "Syntrix Digital Solutions",
+  "defaultTitle": "Syntrix Digital Solutions | Software Development Company in Tanzania",
+  "titleTemplate": "%s | Syntrix Digital Solutions",
+  "home": {
+    "title": "Syntrix Digital Solutions | Software Development Company Tanzania",
+    "description": "Syntrix Digital Solutions is a leading software development company in Tanzania offering custom software, website development, ERP systems, SEO services, and digital transformation solutions for East African businesses.",
+    "keywords": "software development company Tanzania, website development Tanzania, ERP software Tanzania, digital solutions company Tanzania, SEO services Tanzania, business automation solutions"
+  },
+  "about": {
+    "title": "About Us | Leading Digital Transformation Company in Tanzania",
+    "description": "Learn about Syntrix Digital Solutions — our story, mission, vision, and the team building enterprise-grade digital solutions for businesses across Tanzania and East Africa.",
+    "keywords": "digital transformation company Tanzania, technology company Dar es Salaam, IT company Tanzania"
+  },
+  "services": {
+    "title": "Our Services | Software, Web, ERP, SEO & Cloud Solutions",
+    "description": "Explore Syntrix Digital Solutions' full range of services: custom software development, website development, education & business ERP systems, mobile apps, SEO, digital marketing, branding, and cloud solutions.",
+    "keywords": "software development services Tanzania, ERP software Tanzania, SEO services Tanzania, cloud solutions Tanzania, mobile app development Tanzania"
+  },
+  "solutions": {
+    "title": "Industry Solutions | Education, Automation & AI Technology",
+    "description": "Discover Syntrix's industry solutions in education technology, business automation, enterprise systems, and AI — engineered for organizations across Tanzania and East Africa.",
+    "keywords": "education technology Tanzania, business automation solutions, enterprise systems Tanzania, AI solutions Tanzania"
+  },
+  "portfolio": {
+    "title": "Portfolio | Our Digital Transformation Projects",
+    "description": "See how Syntrix Digital Solutions has helped schools, financial institutions, and businesses across Tanzania transform digitally with custom software and ERP systems.",
+    "keywords": "software development portfolio Tanzania, ERP case studies Tanzania, digital transformation projects"
+  },
+  "blog": {
+    "title": "Blog | Technology, SEO & Digital Transformation Insights",
+    "description": "Articles and insights on software development, SEO, ERP systems, and digital transformation for businesses across Tanzania and East Africa.",
+    "keywords": "SEO services Tanzania, digital transformation blog, technology articles Tanzania"
+  },
+  "careers": {
+    "title": "Careers | Join Syntrix Digital Solutions",
+    "description": "Explore career opportunities at Syntrix Digital Solutions — a growing technology company building software, ERP systems, and digital experiences across Tanzania.",
+    "keywords": "IT jobs Tanzania, software developer jobs Dar es Salaam, technology careers Tanzania"
+  },
+  "contact": {
+    "title": "Contact Us | Get a Free Consultation",
+    "description": "Contact Syntrix Digital Solutions for a free consultation on software development, ERP systems, website development, or digital transformation services in Tanzania.",
+    "keywords": "software company contact Tanzania, digital agency Dar es Salaam, IT consulting Tanzania"
+  },
+  "gallery": {
+    "title": "Gallery | Photos from Our Work Across Tanzania",
+    "description": "A look at Syntrix Digital Solutions in action — our team, our projects, and our clients across Tanzania and East Africa.",
+    "keywords": "Syntrix Digital Solutions photos, software company Tanzania gallery, digital transformation company photos"
+  },
+  "team": {
+    "title": "Our Team | Meet the People Behind Syntrix Digital Solutions",
+    "description": "Meet the engineers, designers, and strategists at Syntrix Digital Solutions building enterprise-grade digital solutions across Tanzania and East Africa.",
+    "keywords": "Syntrix Digital Solutions team, software company team Tanzania, technology leadership Tanzania"
+  }
+}

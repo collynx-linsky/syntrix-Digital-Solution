@@ -1,0 +1,45 @@
+{
+  "brand": "Syntrix Digital Solutions",
+  "tagline": "Concevoir l'avenir numérique de l'Afrique",
+  "buttons": {
+    "getStarted": "Commencer",
+    "getQuote": "Demander un Devis",
+    "learnMore": "En Savoir Plus",
+    "readMore": "Lire la Suite",
+    "viewAll": "Voir Tout",
+    "viewCaseStudy": "Voir l'Étude de Cas",
+    "contactUs": "Nous Contacter",
+    "submit": "Envoyer",
+    "send": "Envoyer le Message",
+    "subscribe": "S'abonner",
+    "apply": "Postuler",
+    "backToHome": "Retour à l'Accueil",
+    "viewServices": "Voir les Services",
+    "exploreSolutions": "Découvrir les Solutions"
+  },
+  "labels": {
+    "loading": "Chargement…",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "name": "Nom Complet",
+    "message": "Message",
+    "company": "Entreprise",
+    "subject": "Sujet",
+    "location": "Emplacement",
+    "industry": "Secteur",
+    "technologies": "Technologies Utilisées",
+    "client": "Client",
+    "date": "Date",
+    "category": "Catégorie",
+    "status": "Statut",
+    "readTime": "min de lecture",
+    "search": "Rechercher",
+    "successTitle": "Merci",
+    "successMessage": "Votre demande a bien été reçue. Notre équipe vous contactera sous peu.",
+    "errorMessage": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "meta": {
+    "companyLocation": "Dar es Salaam, Tanzanie · Au service de l'Afrique de l'Est et au-delà",
+    "founded": "Fondée pour propulser la transformation numérique de la Tanzanie"
+  }
+}

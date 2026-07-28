@@ -1,0 +1,43 @@
+{
+  "cta": {
+    "title": "Una mradi akilini? Twambie.",
+    "description": "Tuambie unachojenga — timu yetu kwa kawaida hujibu ndani ya siku moja ya kazi.",
+    "button": "Anza Mazungumzo"
+  },
+  "description": "Syntrix Digital Solutions ni kampuni ya teknolojia yenye makao yake Tanzania, ikitoa mifumo ya programu, tovuti, ERP, na mageuzi ya kidijitali yanayotumia AI kwa mashirika kote Afrika Mashariki.",
+  "columns": {
+    "company": "Kampuni",
+    "services": "Huduma",
+    "solutions": "Suluhisho",
+    "resources": "Rasilimali",
+    "legal": "Sheria"
+  },
+  "links": {
+    "about": "Kuhusu Sisi",
+    "careers": "Nafasi za Kazi",
+    "blog": "Blogu",
+    "portfolio": "Miradi",
+    "contact": "Mawasiliano",
+    "privacy": "Sera ya Faragha",
+    "terms": "Masharti ya Huduma",
+    "cookies": "Sera ya Vidakuzi",
+    "sitemap": "Ramani ya Tovuti"
+  },
+  "newsletter": {
+    "title": "Kaa Mbele Kimtandao",
+    "description": "Maarifa kuhusu programu, ERP, SEO na mageuzi ya kidijitali — kila mwezi.",
+    "placeholder": "Weka anwani yako ya barua pepe",
+    "cta": "Jisajili"
+  },
+  "contactInfo": {
+    "officeTitle": "Ofisi Kuu",
+    "office": "Dar es Salaam, Tanzania",
+    "emailLabel": "Barua Pepe",
+    "phoneLabel": "Simu"
+  },
+  "social": {
+    "title": "Tufuate"
+  },
+  "copyright": "© {year} Syntrix Digital Solutions. Haki zote zimehifadhiwa.",
+  "madeIn": "Imejengwa kwa fahari Tanzania 🇹🇿"
+}

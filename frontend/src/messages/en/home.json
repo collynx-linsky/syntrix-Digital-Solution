@@ -1,0 +1,148 @@
+{
+  "hero": {
+    "eyebrow": "Technology & Digital Transformation Company · Tanzania",
+    "titleLine1": "Engineering the Digital Backbone of",
+    "titleLine2": "East African Business",
+    "subtitle": "Syntrix Digital Solutions designs and builds enterprise software, ERP systems, websites, and AI-driven digital experiences that help organizations in Tanzania and across East Africa operate faster, safer, and smarter.",
+    "primaryCta": "Request a Free Consultation",
+    "secondaryCta": "Explore Our Services",
+    "trustBadge": "Trusted by schools, enterprises, and growing businesses across Tanzania"
+  },
+  "intro": {
+    "eyebrow": "Who We Are",
+    "title": "A Digital Transformation Partner Built for Africa's Growth",
+    "description": "We are a full-service technology company headquartered in Tanzania, combining enterprise software engineering, cloud architecture, SEO, and AI to help businesses, schools, and institutions modernize with confidence. From custom-built ERP systems to secure cloud infrastructure, we engineer solutions that scale with you.",
+    "points": [
+      "Enterprise-grade engineering standards",
+      "Deep understanding of the East African market",
+      "End-to-end delivery — from strategy to support",
+      "Security and compliance built in from day one"
+    ],
+    "badgeValue": "10+",
+    "badgeLabel": "Years of Impact"
+  },
+  "overview": {
+    "eyebrow": "Digital Solutions Overview",
+    "title": "Every Layer of Your Digital Transformation, Handled",
+    "description": "Software, infrastructure, growth, and brand — delivered as one coherent system instead of disconnected vendors.",
+    "pillars": [
+      {
+        "title": "Build",
+        "description": "Custom software, websites, ERP systems, and mobile apps engineered for reliability at scale."
+      },
+      {
+        "title": "Automate",
+        "description": "Business process automation and AI solutions that remove manual work and reduce errors."
+      },
+      {
+        "title": "Grow",
+        "description": "SEO, digital marketing, and branding that turn your digital presence into a growth engine."
+      },
+      {
+        "title": "Secure & Scale",
+        "description": "Cloud architecture and IT consulting that keep systems secure, available, and ready to scale."
+      }
+    ]
+  },
+  "featuredProjects": {
+    "eyebrow": "Our Work",
+    "title": "Recent Projects",
+    "description": "A look at how we've helped organizations across Tanzania modernize with confidence."
+  },
+  "services": {
+    "eyebrow": "Our Services",
+    "title": "Comprehensive Digital Solutions Under One Roof",
+    "description": "Ten core service lines covering the full lifecycle of enterprise digital transformation.",
+    "viewAll": "View All Services"
+  },
+  "techStack": {
+    "eyebrow": "Technology Stack",
+    "title": "Modern, Battle-Tested Technology",
+    "description": "We build on production-proven frameworks trusted by the world's leading technology companies — chosen for performance, security, and long-term maintainability.",
+    "categories": [
+      { "label": "Frontend", "items": ["Next.js", "React", "TypeScript", "Tailwind CSS"] },
+      { "label": "Backend", "items": ["Django", "Django REST Framework", "Python", "Node.js"] },
+      { "label": "Data", "items": ["PostgreSQL", "Redis", "REST APIs", "GraphQL"] },
+      { "label": "Cloud & DevOps", "items": ["Docker", "AWS", "CI/CD", "Nginx"] },
+      { "label": "AI & Automation", "items": ["Machine Learning", "Process Automation", "AI Translation", "Data Pipelines"] }
+    ]
+  },
+  "whyChooseUs": {
+    "eyebrow": "Why Choose Syntrix",
+    "title": "Enterprise Quality, Local Understanding",
+    "reasons": [
+      {
+        "title": "Enterprise-Grade Engineering",
+        "description": "Production-ready architecture, tested code, and scalable infrastructure — not templated shortcuts."
+      },
+      {
+        "title": "Security by Design",
+        "description": "Authentication, data protection, and secure API design are built in from the first line of code."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "We understand Tanzanian and East African business, regulatory, and infrastructure realities."
+      },
+      {
+        "title": "Transparent Delivery",
+        "description": "Clear timelines, documented architecture decisions, and honest communication throughout every project."
+      },
+      {
+        "title": "Long-Term Partnership",
+        "description": "We support, maintain, and evolve what we build — we don't disappear after launch."
+      },
+      {
+        "title": "Multilingual, Multi-Market Ready",
+        "description": "Every solution is built to serve English, Kiswahili, French, and Arabic-speaking audiences from day one."
+      }
+    ]
+  },
+  "industries": {
+    "eyebrow": "Industries Served",
+    "title": "Purpose-Built Solutions Across Sectors",
+    "items": [
+      { "title": "Education", "description": "School and university ERP systems, student management, and e-learning platforms." },
+      { "title": "Finance & Banking", "description": "Secure, compliant systems for financial institutions and fintech innovators." },
+      { "title": "Healthcare", "description": "Patient management, records, and digital health infrastructure." },
+      { "title": "Retail & E-Commerce", "description": "Online storefronts, inventory, and business management systems." },
+      { "title": "Government & NGOs", "description": "Digital services, reporting systems, and public-facing platforms." },
+      { "title": "Manufacturing & Logistics", "description": "Automation and business management systems for operational efficiency." }
+    ]
+  },
+  "stats": {
+    "eyebrow": "Our Impact",
+    "items": [
+      { "value": "50+", "label": "Projects Delivered" },
+      { "value": "30+", "label": "Businesses Transformed" },
+      { "value": "4", "label": "Languages Supported" },
+      { "value": "99.9%", "label": "Platform Uptime Target" }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Client Testimonials",
+    "title": "Trusted by Organizations Across Tanzania",
+    "items": [
+      {
+        "quote": "Syntrix rebuilt our entire student management workflow. What used to take our staff days now takes minutes, and parents finally have real visibility into their children's progress.",
+        "name": "Head of Administration",
+        "role": "Private Secondary School, Dar es Salaam"
+      },
+      {
+        "quote": "Our new website and SEO strategy from Syntrix doubled our qualified inquiries within four months. The team understood our market in a way international agencies never did.",
+        "name": "Managing Director",
+        "role": "Logistics Company, Tanzania"
+      },
+      {
+        "quote": "They didn't just write code — they explained every architectural decision and left us with documentation our internal team could actually maintain.",
+        "name": "IT Manager",
+        "role": "Financial Services Firm"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business Digitally?",
+    "description": "Talk to our team about how custom software, ERP systems, or a modern digital presence can move your organization forward.",
+    "primary": "Request a Free Consultation",
+    "secondary": "View Our Portfolio"
+  }
+}

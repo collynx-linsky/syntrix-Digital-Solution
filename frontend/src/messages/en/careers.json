@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "eyebrow": "Careers",
+    "title": "Build Africa's Digital Future With Us",
+    "subtitle": "We're always looking for talented engineers, designers, and strategists who care about doing excellent work."
+  },
+  "culture": {
+    "title": "Why Work at Syntrix",
+    "points": [
+      { "title": "Real Ownership", "description": "Work directly on client-facing systems from day one — no busywork." },
+      { "title": "Continuous Learning", "description": "Access to training, modern tooling, and mentorship from senior engineers." },
+      { "title": "Flexible & Remote-Friendly", "description": "Hybrid and remote arrangements for roles that support it." },
+      { "title": "Meaningful Impact", "description": "Your work powers schools, businesses, and institutions across Tanzania." }
+    ]
+  },
+  "openPositions": "Open Positions",
+  "noPositions": "There are no open positions right now — check back soon or send us your CV for future opportunities.",
+  "employmentTypes": {
+    "full_time": "Full-time",
+    "part_time": "Part-time",
+    "contract": "Contract",
+    "internship": "Internship"
+  },
+  "application": {
+    "title": "Apply Now",
+    "description": "Interested in joining the team? Send us your details and CV below.",
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "positionApplyingFor": "Position Applying For",
+      "linkedin": "LinkedIn / Portfolio URL",
+      "coverMessage": "Tell us why you're a great fit",
+      "resume": "Upload CV / Resume",
+      "submit": "Submit Application",
+      "consent": "I consent to Syntrix Digital Solutions storing my application details for recruitment purposes."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "brand": "Syntrix Digital Solutions",
+  "tagline": "نصمم مستقبل أفريقيا الرقمي",
+  "buttons": {
+    "getStarted": "ابدأ الآن",
+    "getQuote": "اطلب عرض سعر",
+    "learnMore": "اعرف المزيد",
+    "readMore": "اقرأ المزيد",
+    "viewAll": "عرض الكل",
+    "viewCaseStudy": "عرض دراسة الحالة",
+    "contactUs": "اتصل بنا",
+    "submit": "إرسال",
+    "send": "إرسال الرسالة",
+    "subscribe": "اشترك",
+    "apply": "قدّم الآن",
+    "backToHome": "العودة إلى الرئيسية",
+    "viewServices": "عرض الخدمات",
+    "exploreSolutions": "استكشف الحلول"
+  },
+  "labels": {
+    "loading": "جارٍ التحميل…",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "name": "الاسم الكامل",
+    "message": "الرسالة",
+    "company": "الشركة",
+    "subject": "الموضوع",
+    "location": "الموقع",
+    "industry": "القطاع",
+    "technologies": "التقنيات المستخدمة",
+    "client": "العميل",
+    "date": "التاريخ",
+    "category": "الفئة",
+    "status": "الحالة",
+    "readTime": "دقيقة قراءة",
+    "search": "بحث",
+    "successTitle": "شكرًا لك",
+    "successMessage": "تم استلام طلبك بنجاح. سيتواصل معك فريقنا قريبًا.",
+    "errorMessage": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+  },
+  "meta": {
+    "companyLocation": "دار السلام، تنزانيا · نخدم شرق أفريقيا وخارجها",
+    "founded": "تأسست لدفع التحول الرقمي في تنزانيا"
+  }
+}

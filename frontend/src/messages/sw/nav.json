@@ -1,0 +1,23 @@
+{
+  "home": "Mwanzo",
+  "about": "Kuhusu Sisi",
+  "services": "Huduma",
+  "solutions": "Suluhisho",
+  "portfolio": "Miradi",
+  "gallery": "Matunzio",
+  "team": "Timu",
+  "blog": "Blogu",
+  "careers": "Nafasi za Kazi",
+  "contact": "Mawasiliano",
+  "getQuote": "Omba Bei",
+  "language": "Lugha",
+  "menu": {
+    "servicesGroup": "Tunachofanya",
+    "solutionsGroup": "Suluhisho za Sekta",
+    "companyGroup": "Kampuni"
+  },
+  "themeToggle": {
+    "light": "Mwonekano Mweupe",
+    "dark": "Mwonekano wa Giza"
+  }
+}

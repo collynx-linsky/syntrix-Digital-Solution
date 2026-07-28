@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "eyebrow": "Solutions",
+    "title": "Industry Solutions Built for Real-World Impact",
+    "subtitle": "Purpose-built platforms addressing the specific challenges of education, business operations, enterprise scale, and AI-driven growth."
+  },
+  "noItems": "Our solutions list is being updated — check back soon.",
+  "items": [
+    {
+      "slug": "education-technology",
+      "title": "Education Technology",
+      "summary": "Complete school and university management ecosystems.",
+      "description": "Our Education ERP platform brings admissions, academics, attendance, examinations, finance, and parent communication into one secure system — reducing administrative overhead and improving outcomes for schools of any size.",
+      "capabilities": [
+        "Student information & admissions management",
+        "Timetabling, attendance & examinations",
+        "Fee management & finance integration",
+        "Parent & guardian communication portal",
+        "Multi-campus & multi-branch support"
+      ]
+    },
+    {
+      "slug": "business-automation",
+      "title": "Business Automation",
+      "summary": "Eliminate manual work with intelligent workflow automation.",
+      "description": "We design automation systems that handle repetitive operational tasks — approvals, reporting, data entry, and notifications — freeing your team to focus on higher-value work.",
+      "capabilities": [
+        "Workflow & approval automation",
+        "Automated reporting & dashboards",
+        "Document processing & data extraction",
+        "Third-party system integrations",
+        "Custom notification & alerting systems"
+      ]
+    },
+    {
+      "slug": "enterprise-systems",
+      "title": "Enterprise Systems",
+      "summary": "Scalable business management platforms for growing organizations.",
+      "description": "Our enterprise systems unify finance, HR, inventory, and operations into a single source of truth — built to scale as your organization grows in size and complexity.",
+      "capabilities": [
+        "Business management systems (ERP)",
+        "HR & payroll platforms",
+        "Inventory & supply chain management",
+        "Role-based access & audit trails",
+        "Custom reporting & analytics"
+      ]
+    },
+    {
+      "slug": "ai-solutions",
+      "title": "AI Solutions",
+      "summary": "Practical AI that improves accuracy, speed, and customer experience.",
+      "description": "We build applied AI features — from intelligent document processing to AI-assisted translation and chat — designed to solve specific operational problems rather than technology for its own sake.",
+      "capabilities": [
+        "AI-assisted translation & localization",
+        "Intelligent document & data processing",
+        "Predictive analytics & reporting",
+        "AI-powered customer support tooling",
+        "Custom machine learning integrations"
+      ]
+    }
+  ]
+}

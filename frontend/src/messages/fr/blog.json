@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "eyebrow": "Blog et Analyses",
+    "title": "Réflexions sur le Logiciel, le SEO et la Transformation Numérique",
+    "subtitle": "Des analyses pratiques pour les entreprises tanzaniennes et est-africaines confrontées à des décisions technologiques."
+  },
+  "categories": { "all": "Tous les Articles", "technology": "Technologie", "seo": "SEO", "digital-transformation": "Transformation Numérique" },
+  "readMore": "Lire l'Article",
+  "posts": [
+    { "slug": "why-tanzanian-businesses-need-custom-software", "title": "Pourquoi les Entreprises Tanzaniennes Délaissent les Logiciels Génériques", "category": "technology", "excerpt": "Un logiciel générique force votre entreprise à s'adapter au processus de quelqu'un d'autre. Voici pourquoi les systèmes sur mesure deviennent l'investissement le plus judicieux à long terme.", "readTime": 6 },
+    { "slug": "seo-guide-tanzania-2026", "title": "Un Guide SEO Pratique pour les Entreprises Tanzaniennes en 2026", "category": "seo", "excerpt": "Comment les entreprises locales peuvent gagner en visibilité de recherche face à des concurrents internationaux plus importants — sans budget illimité.", "readTime": 8 },
+    { "slug": "erp-systems-for-schools", "title": "Ce Qu'il Faut Rechercher dans un Système ERP Scolaire", "category": "digital-transformation", "excerpt": "Une analyse des fonctionnalités qui comptent réellement lors de l'évaluation d'un logiciel de gestion de l'éducation pour votre établissement.", "readTime": 7 },
+    { "slug": "cloud-migration-checklist", "title": "Une Liste de Contrôle pour la Migration Cloud des Entreprises en Croissance", "category": "technology", "excerpt": "Passer au cloud n'est pas qu'une décision technique — voici comment planifier une migration qui ne perturbe pas les opérations.", "readTime": 5 },
+    { "slug": "digital-transformation-roadmap", "title": "Construire une Feuille de Route de Transformation Numérique qui Fonctionne Vraiment", "category": "digital-transformation", "excerpt": "La transformation numérique échoue lorsqu'elle est traitée comme un projet unique. Voici comment la structurer comme une capacité continue.", "readTime": 9 },
+    { "slug": "multilingual-website-seo", "title": "Comment les Sites Multilingues Améliorent le SEO et la Confiance Client", "category": "seo", "excerpt": "Servir des audiences swahiliphones, francophones et arabophones n'est pas qu'une question d'accessibilité — c'est un avantage mesurable en SEO et en conversion.", "readTime": 6 }
+  ]
+}

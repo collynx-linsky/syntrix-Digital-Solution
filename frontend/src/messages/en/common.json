@@ -1,0 +1,45 @@
+{
+  "brand": "Syntrix Digital Solutions",
+  "tagline": "Engineering Africa's Digital Future",
+  "buttons": {
+    "getStarted": "Get Started",
+    "getQuote": "Request a Quote",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "viewCaseStudy": "View Case Study",
+    "contactUs": "Contact Us",
+    "submit": "Submit",
+    "send": "Send Message",
+    "subscribe": "Subscribe",
+    "apply": "Apply Now",
+    "backToHome": "Back to Home",
+    "viewServices": "View Services",
+    "exploreSolutions": "Explore Solutions"
+  },
+  "labels": {
+    "loading": "Loading…",
+    "email": "Email",
+    "phone": "Phone",
+    "name": "Full Name",
+    "message": "Message",
+    "company": "Company",
+    "subject": "Subject",
+    "location": "Location",
+    "industry": "Industry",
+    "technologies": "Technologies Used",
+    "client": "Client",
+    "date": "Date",
+    "category": "Category",
+    "status": "Status",
+    "readTime": "min read",
+    "search": "Search",
+    "successTitle": "Thank you",
+    "successMessage": "Your submission was received. Our team will be in touch shortly.",
+    "errorMessage": "Something went wrong. Please try again."
+  },
+  "meta": {
+    "companyLocation": "Dar es Salaam, Tanzania · Serving East Africa & beyond",
+    "founded": "Founded to power Tanzania's digital transformation"
+  }
+}

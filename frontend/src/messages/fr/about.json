@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "eyebrow": "À Propos de Syntrix Digital Solutions",
+    "title": "Construire l'Infrastructure Numérique de la Tanzanie, un Système à la Fois",
+    "subtitle": "Nous sommes une équipe d'ingénieurs, de designers et de stratèges dont la mission est de rendre la technologie de niveau entreprise accessible aux entreprises est-africaines."
+  },
+  "story": {
+    "eyebrow": "Notre Histoire",
+    "title": "Pourquoi Syntrix Existe",
+    "paragraphs": [
+      "Syntrix Digital Solutions a été fondée sur un constat simple : les entreprises, écoles et institutions tanzaniennes étaient mal desservies par les fournisseurs de technologie — proposant soit des modèles internationaux génériques, soit des solutions locales fragiles et sans support.",
+      "Nous avons entrepris de combler cet écart en alliant des normes d'ingénierie internationales à une connaissance approfondie du marché local. Chaque système que nous construisons — d'un ERP scolaire à un site web d'entreprise — est conçu selon la même norme que nous appliquerions à un client d'entreprise mondiale.",
+      "Aujourd'hui, Syntrix soutient des organisations dans les secteurs de l'éducation, de la finance, du commerce de détail, de la logistique et du gouvernement avec des logiciels sécurisés, évolutifs et conçus pour durer."
+    ]
+  },
+  "vision": {
+    "title": "Notre Vision",
+    "description": "Devenir le partenaire de transformation numérique le plus fiable d'Afrique de l'Est — l'entreprise vers laquelle se tournent les organisations lorsque la technologie doit fonctionner, pas seulement être lancée."
+  },
+  "mission": {
+    "title": "Notre Mission",
+    "description": "Fournir des solutions numériques fiables qui aident les entreprises à croître grâce au développement logiciel, aux sites web modernes, à l'automatisation, aux solutions d'IA, au SEO et à la transformation numérique."
+  },
+  "values": {
+    "eyebrow": "Valeurs Fondamentales",
+    "title": "Ce Qui Guide Notre Travail",
+    "items": [
+      { "title": "Fiabilité", "description": "Nous construisons des systèmes qui fonctionnent correctement, à chaque fois, dans des conditions réelles." },
+      { "title": "Intégrité", "description": "Une tarification transparente, des délais honnêtes et des décisions d'architecture que nous pouvons toujours expliquer." },
+      { "title": "Innovation", "description": "Nous restons à jour avec les pratiques d'ingénierie modernes afin que nos clients n'héritent pas de technologies obsolètes." },
+      { "title": "Sécurité", "description": "Chaque système est conçu avec la protection des données et des pratiques sécurisées par défaut dès le premier jour." },
+      { "title": "Impact Local", "description": "Nous mesurons le succès par la croissance obtenue par nos clients, pas seulement par les logiciels que nous livrons." }
+    ]
+  },
+  "leadership": {
+    "eyebrow": "Direction",
+    "title": "L'Équipe Derrière Syntrix",
+    "description": "Notre équipe de direction réunit une expertise en ingénierie logicielle d'entreprise, en architecture cloud et en stratégie numérique pour guider chaque engagement client.",
+    "members": [
+      { "name": "Fondateur et PDG", "role": "Stratégie et Partenariats Clients", "bio": "Dirige la vision de l'entreprise et la stratégie client, veillant à ce que chaque engagement soit aligné sur des résultats commerciaux mesurables." },
+      { "name": "Responsable de l'Ingénierie", "role": "Architecture Logicielle", "bio": "Supervise l'architecture technique de tous les projets, des systèmes ERP à l'infrastructure cloud." },
+      { "name": "Responsable du Design", "role": "UI/UX et Image de Marque", "bio": "Dirige la conception de produits et l'identité de marque sur les plateformes web, mobiles et marketing." },
+      { "name": "Responsable de la Croissance", "role": "SEO et Marketing Digital", "bio": "Dirige la stratégie SEO et les campagnes de marketing digital pour les programmes de croissance des clients." }
+    ]
+  },
+  "culture": {
+    "eyebrow": "Culture d'Entreprise",
+    "title": "Comment Nous Travaillons",
+    "description": "Nous fonctionnons comme une équipe restreinte dirigée par des experts seniors plutôt que comme une grande agence externalisée. Chaque client travaille directement avec les ingénieurs et stratèges qui construisent sa solution — pas avec des couches de gestion de compte.",
+    "points": [
+      "Accès direct aux ingénieurs qui construisent votre système",
+      "Décisions d'architecture documentées et explicables",
+      "Apprentissage continu — notre équipe reste à jour avec les pratiques d'ingénierie modernes",
+      "Vision à long terme plutôt que livraison ponctuelle de projet"
+    ]
+  }
+}

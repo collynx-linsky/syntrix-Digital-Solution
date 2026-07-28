@@ -1,0 +1,39 @@
+{
+  "hero": {
+    "eyebrow": "Nafasi za Kazi",
+    "title": "Jenga Mustakabali wa Kidijitali wa Afrika Pamoja Nasi",
+    "subtitle": "Tunatafuta kila wakati wahandisi, wabunifu, na wataalamu wa mikakati wenye vipaji wanaojali kufanya kazi bora."
+  },
+  "culture": {
+    "title": "Kwa Nini Ufanye Kazi Syntrix",
+    "points": [
+      { "title": "Umiliki wa Kweli", "description": "Fanya kazi moja kwa moja kwenye mifumo inayowahusu wateja tangu siku ya kwanza — hakuna kazi zisizo na maana." },
+      { "title": "Kujifunza Endelevu", "description": "Ufikiaji wa mafunzo, zana za kisasa, na ushauri kutoka kwa wahandisi wakuu." },
+      { "title": "Kubadilika na Kazi za Mbali", "description": "Mipangilio ya mchanganyiko na kazi za mbali kwa nafasi zinazoruhusu hivyo." },
+      { "title": "Athari Yenye Maana", "description": "Kazi yako inawezesha shule, biashara, na taasisi kote Tanzania." }
+    ]
+  },
+  "openPositions": "Nafasi Zilizo Wazi",
+  "noPositions": "Hakuna nafasi wazi kwa sasa — angalia tena baadaye au tutumie CV yako kwa fursa za baadaye.",
+  "employmentTypes": {
+    "full_time": "Muda Kamili",
+    "part_time": "Muda wa Sehemu",
+    "contract": "Mkataba",
+    "internship": "Mafunzo Kazini"
+  },
+  "application": {
+    "title": "Tuma Maombi",
+    "description": "Unapenda kujiunga na timu? Tutumie taarifa zako na CV hapa chini.",
+    "form": {
+      "fullName": "Jina Kamili",
+      "email": "Anwani ya Barua Pepe",
+      "phone": "Namba ya Simu",
+      "positionApplyingFor": "Nafasi Unayoomba",
+      "linkedin": "LinkedIn / URL ya Portfolio",
+      "coverMessage": "Tuambie kwa nini unafaa kwa nafasi hii",
+      "resume": "Pakia CV / Resume",
+      "submit": "Tuma Maombi",
+      "consent": "Ninakubali Syntrix Digital Solutions kuhifadhi taarifa za maombi yangu kwa madhumuni ya uajiri."
+    }
+  }
+}

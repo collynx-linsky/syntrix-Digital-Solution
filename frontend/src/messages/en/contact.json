@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "eyebrow": "Contact Us",
+    "title": "Let's Build Something Reliable Together",
+    "subtitle": "Tell us about your project and our team will respond within one business day."
+  },
+  "form": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "company": "Company Name",
+    "service": "Service of Interest",
+    "budget": "Estimated Budget",
+    "message": "Tell us about your project",
+    "submit": "Send Message",
+    "privacyNote": "By submitting this form, you agree to our Privacy Policy. We never share your information with third parties."
+  },
+  "info": {
+    "officeTitle": "Head Office",
+    "office": "Dar es Salaam, Tanzania",
+    "emailTitle": "Email Us",
+    "email": "info@syntrixdigitalsolutions.com",
+    "phoneTitle": "Call Us",
+    "phone": "+255 700 000 000",
+    "hoursTitle": "Business Hours",
+    "hours": "Monday – Friday, 8:30 AM – 5:30 PM (EAT)"
+  },
+  "social": {
+    "title": "Connect With Us"
+  },
+  "mapTitle": "Find Us"
+}

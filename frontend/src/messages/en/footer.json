@@ -1,0 +1,43 @@
+{
+  "cta": {
+    "title": "Have a project in mind? Let's talk.",
+    "description": "Tell us what you're building — our team typically replies within one business day.",
+    "button": "Start a Conversation"
+  },
+  "description": "Syntrix Digital Solutions is a Tanzania-based technology company delivering enterprise software, websites, ERP systems, and AI-driven digital transformation for organizations across East Africa.",
+  "columns": {
+    "company": "Company",
+    "services": "Services",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "legal": "Legal"
+  },
+  "links": {
+    "about": "About Us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "sitemap": "Sitemap"
+  },
+  "newsletter": {
+    "title": "Stay ahead of the digital curve",
+    "description": "Insights on software, ERP, SEO and digital transformation — delivered monthly.",
+    "placeholder": "Enter your email address",
+    "cta": "Subscribe"
+  },
+  "contactInfo": {
+    "officeTitle": "Head Office",
+    "office": "Dar es Salaam, Tanzania",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone"
+  },
+  "social": {
+    "title": "Follow Us"
+  },
+  "copyright": "© {year} Syntrix Digital Solutions. All rights reserved.",
+  "madeIn": "Proudly built in Tanzania 🇹🇿"
+}

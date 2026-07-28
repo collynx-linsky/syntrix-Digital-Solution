@@ -1,0 +1,23 @@
+{
+  "home": "Home",
+  "about": "About Us",
+  "services": "Services",
+  "solutions": "Solutions",
+  "portfolio": "Portfolio",
+  "gallery": "Gallery",
+  "team": "Team",
+  "blog": "Blog",
+  "careers": "Careers",
+  "contact": "Contact",
+  "getQuote": "Request a Quote",
+  "language": "Language",
+  "menu": {
+    "servicesGroup": "What We Do",
+    "solutionsGroup": "Industry Solutions",
+    "companyGroup": "Company"
+  },
+  "themeToggle": {
+    "light": "Light mode",
+    "dark": "Dark mode"
+  }
+}
