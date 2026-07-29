@@ -1,6 +1,16 @@
+import uuid
+
+from django.core.validators import FileExtensionValidator
 from django.db import models
 
 from apps.core.models import BaseTranslation, TimeStampedModel
+
+ALLOWED_RESUME_EXTENSIONS = ["pdf", "doc", "docx"]
+
+
+def resume_upload_path(instance, filename):
+    ext = filename.rsplit(".", 1)[-1].lower() if "." in filename else ""
+    return f"applications/resumes/{uuid.uuid4().hex}.{ext}"
 
 
 class JobPosition(TimeStampedModel):
@@ -44,7 +54,10 @@ class Application(TimeStampedModel):
     phone = models.CharField(max_length=30, blank=True)
     linkedin = models.URLField(blank=True)
     cover_message = models.TextField()
-    resume = models.FileField(upload_to="applications/resumes/")
+    resume = models.FileField(
+        upload_to=resume_upload_path,
+        validators=[FileExtensionValidator(allowed_extensions=ALLOWED_RESUME_EXTENSIONS)],
+    )
     consent = models.BooleanField(default=False)
     language = models.CharField(max_length=5, blank=True)
 

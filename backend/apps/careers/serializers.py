@@ -4,6 +4,14 @@ from apps.core.constants import TranslationStatus
 
 from .models import Application, JobPosition, JobPositionTranslation
 
+# Magic-byte signatures for the allowed resume formats, so a renamed script
+# (e.g. resume.pdf containing HTML/JS) can't slip past the extension check.
+RESUME_SIGNATURES = {
+    b"%PDF-": "pdf",
+    b"PK\x03\x04": "docx",  # docx is a zip archive
+    b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1": "doc",  # legacy OLE format
+}
+
 
 class JobPositionTranslationSerializer(serializers.ModelSerializer):
     class Meta:
@@ -38,4 +46,11 @@ class ApplicationSerializer(serializers.ModelSerializer):
     def validate_consent(self, value):
         if not value:
             raise serializers.ValidationError("Consent is required to submit an application.")
+        return value
+
+    def validate_resume(self, value):
+        header = value.read(8)
+        value.seek(0)
+        if not any(header.startswith(sig) for sig in RESUME_SIGNATURES):
+            raise serializers.ValidationError("Resume must be a valid PDF, DOC, or DOCX file.")
         return value
