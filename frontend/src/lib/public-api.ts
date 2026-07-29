@@ -15,8 +15,27 @@ export class PublicApiNotFoundError extends Error {}
 
 type Paginated<T> = { count: number; next: string | null; previous: string | null; results: T[] };
 
+// Bounds how long a single request can hang before we treat the backend
+// as unreachable — matters most when the backend genuinely isn't
+// deployed yet (e.g. a fresh frontend-only deploy), where every fetch
+// would otherwise hang on connection failure and can stall a build/page
+// render for the platform's full timeout instead of degrading cleanly.
+const FETCH_TIMEOUT_MS = 8000;
+
 async function fetchJSON<T>(url: string, tags: PublicTag[]): Promise<T> {
-  const res = await fetch(url, { next: { tags, revalidate: SAFETY_REVALIDATE_SECONDS } });
+  let res: Response;
+  try {
+    res = await fetch(url, {
+      next: { tags, revalidate: SAFETY_REVALIDATE_SECONDS },
+      signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+    });
+  } catch {
+    // Network/DNS/connection failure or timeout — the backend is
+    // unreachable, not just missing this particular resource, but the
+    // two should degrade identically for every caller here (null/[]
+    // instead of a crash), so it's treated as PublicApiNotFoundError too.
+    throw new PublicApiNotFoundError(url);
+  }
   if (res.status === 404) throw new PublicApiNotFoundError(url);
   if (!res.ok) throw new Error(`Public API request failed: ${res.status} ${url}`);
   return res.json() as Promise<T>;
@@ -26,16 +45,23 @@ export function getPublicJSON<T>(path: string, tags: PublicTag[]): Promise<T> {
   return fetchJSON<T>(`${API_URL}${path}`, tags);
 }
 
-/** Follows DRF's `next` (an absolute URL) until exhausted or MAX_PAGES reached. */
+/** Follows DRF's `next` (an absolute URL) until exhausted or MAX_PAGES reached.
+ * Treats a fully unreachable backend the same as "no results" — whatever
+ * pages were successfully fetched before the failure are still returned. */
 export async function getAllPublished<T>(path: string, tags: PublicTag[]): Promise<T[]> {
   const results: T[] = [];
   let url: string | null = `${API_URL}${path}`;
   let pages = 0;
-  while (url && pages < MAX_PAGES) {
-    const page: Paginated<T> = await fetchJSON<Paginated<T>>(url, tags);
-    results.push(...page.results);
-    url = page.next;
-    pages += 1;
+  try {
+    while (url && pages < MAX_PAGES) {
+      const page: Paginated<T> = await fetchJSON<Paginated<T>>(url, tags);
+      results.push(...page.results);
+      url = page.next;
+      pages += 1;
+    }
+  } catch (e) {
+    if (e instanceof PublicApiNotFoundError) return results;
+    throw e;
   }
   return results;
 }
