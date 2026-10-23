@@ -6,6 +6,7 @@ import { Breadcrumbs } from "@/components/ui/breadcrumbs";
 import { Reveal } from "@/components/motion/reveal";
 import { StaggerGroup, StaggerItem } from "@/components/motion/stagger";
 import { SITE_URL, breadcrumbJsonLd } from "@/lib/seo";
+import { whatsappUrl } from "@/lib/utils";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -63,7 +64,7 @@ export default async function ContactPage({ params }: Props) {
           <StaggerGroup className="space-y-5 lg:col-span-5">
             <StaggerItem><InfoCard icon={MapPin} title={t("info.officeTitle")} value={t("info.office")} /></StaggerItem>
             <StaggerItem><InfoCard icon={Mail} title={t("info.emailTitle")} value={t("info.email")} href={`mailto:${t("info.email")}`} /></StaggerItem>
-            <StaggerItem><InfoCard icon={Phone} title={t("info.phoneTitle")} value={t("info.phone")} href={`tel:${t("info.phone")}`} /></StaggerItem>
+            <StaggerItem><InfoCard icon={Phone} title={t("info.phoneTitle")} value={t("info.phone")} href={whatsappUrl(t("info.phone"))} external /></StaggerItem>
             <StaggerItem><InfoCard icon={Clock} title={t("info.hoursTitle")} value={t("info.hours")} /></StaggerItem>
 
             <StaggerItem className="overflow-hidden rounded-2xl border border-ink-100 dark:border-ink-800">
@@ -86,11 +87,13 @@ function InfoCard({
   title,
   value,
   href,
+  external,
 }: {
   icon: typeof MapPin;
   title: string;
   value: string;
   href?: string;
+  external?: boolean;
 }) {
   const content = (
     <div className="group flex items-start gap-4 rounded-2xl border border-ink-100 p-5 transition-all duration-300 hover:-translate-y-0.5 hover:shadow-glow dark:border-ink-800">
@@ -103,5 +106,10 @@ function InfoCard({
       </div>
     </div>
   );
-  return href ? <a href={href}>{content}</a> : content;
+  if (!href) return content;
+  return external ? (
+    <a href={href} target="_blank" rel="noopener noreferrer">{content}</a>
+  ) : (
+    <a href={href}>{content}</a>
+  );
 }

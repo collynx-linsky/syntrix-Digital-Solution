@@ -119,7 +119,7 @@ This is a launch-ready **foundation**, not a finished product. See `documentatio
 
 ## Known placeholders (replace before launch)
 
-- Contact email/phone (`frontend/src/messages/*/contact.json`, `footer.json`) — currently `info@syntrixdigitalsolutions.com` / `+255 700 000 000`
+- Contact email (`frontend/src/messages/*/contact.json`, `footer.tsx`) — currently `info@syntrixdigitalsolutions.com`. Phone/WhatsApp is set to the real number, `+255 789 236 338`.
 - Logo (`frontend/public/brand/logo.svg`) — a simple monogram placeholder, not a final designed identity
 - Privacy Policy / Terms of Service pages — explicit placeholder text pending legal review
 - Portfolio case studies, team bios — illustrative sample data demonstrating the schema, not real client work

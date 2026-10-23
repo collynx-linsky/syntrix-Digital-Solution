@@ -2,6 +2,7 @@ import { useTranslations } from "next-intl";
 import { Facebook, Linkedin, Twitter, Instagram, Mail, Phone, MapPin, ArrowRight } from "lucide-react";
 import { Link } from "@/i18n/routing";
 import { Reveal } from "@/components/motion/reveal";
+import { whatsappUrl } from "@/lib/utils";
 
 const SOCIAL_LINKS = [
   { icon: Linkedin, href: "https://www.linkedin.com/company/syntrixdigitalsolutions", label: "LinkedIn" },
@@ -17,6 +18,7 @@ type FooterProps = {
 
 export function Footer({ services, solutions }: FooterProps) {
   const t = useTranslations("footer");
+  const contact = useTranslations("contact.info");
   const year = new Date().getFullYear();
 
   return (
@@ -126,7 +128,12 @@ export function Footer({ services, solutions }: FooterProps) {
             <div className="mt-6 space-y-2.5 text-sm text-ink-400">
               <p className="flex items-center gap-2"><MapPin className="h-4 w-4 shrink-0 text-gold-400" /> {t("contactInfo.office")}</p>
               <p className="flex items-center gap-2"><Mail className="h-4 w-4 shrink-0 text-gold-400" /> info@syntrixdigitalsolutions.com</p>
-              <p className="flex items-center gap-2"><Phone className="h-4 w-4 shrink-0 text-gold-400" /> +255 700 000 000</p>
+              <p className="flex items-center gap-2">
+                <Phone className="h-4 w-4 shrink-0 text-gold-400" />
+                <a href={whatsappUrl(contact("phone"))} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-white">
+                  {contact("phone")}
+                </a>
+              </p>
             </div>
           </div>
         </div>
